@@ -1,0 +1,2601 @@
+area_id,area_name,display_name,area,year,bedroom_category,txn_count
+7,Al Barsha First,,Al Barsha First,2017,1BR,111
+7,Al Barsha First,,Al Barsha First,2017,2BR,44
+7,Al Barsha First,,Al Barsha First,2017,Studio,12
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2010,1BR,155
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2010,2BR,33
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2010,Studio,16
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2012,1BR,10
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2013,1BR,23
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2013,2BR,7
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2013,Studio,11
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2014,1BR,163
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2014,2BR,89
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2014,Studio,42
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2015,1BR,69
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2015,2BR,89
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2015,3BR,6
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2015,Studio,42
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2016,1BR,147
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2016,2BR,71
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2016,3BR,15
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2016,Studio,104
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2017,1BR,234
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2017,2BR,47
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2017,3BR,6
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2017,Non-residential,6
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2017,Studio,657
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2018,1BR,83
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2018,2BR,51
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2018,3BR,6
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2018,Studio,244
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2019,1BR,56
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2019,2BR,19
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2019,3BR,12
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2019,Studio,150
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2020,1BR,81
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2020,2BR,11
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2020,Studio,204
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2021,1BR,52
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2021,2BR,22
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2021,3BR,5
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2021,Studio,120
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2022,1BR,271
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2022,2BR,81
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2022,3BR,39
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2022,Studio,83
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2023,1BR,123
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2023,2BR,17
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,2023,Studio,52
+10,Al Barsha South Fourth,Arjan,Arjan,2010,1BR,904
+10,Al Barsha South Fourth,Arjan,Arjan,2010,2BR,220
+10,Al Barsha South Fourth,Arjan,Arjan,2010,3BR,187
+10,Al Barsha South Fourth,Arjan,Arjan,2010,4BR+,30
+10,Al Barsha South Fourth,Arjan,Arjan,2010,Non-residential,19
+10,Al Barsha South Fourth,Arjan,Arjan,2010,Studio,284
+10,Al Barsha South Fourth,Arjan,Arjan,2011,1BR,457
+10,Al Barsha South Fourth,Arjan,Arjan,2011,2BR,114
+10,Al Barsha South Fourth,Arjan,Arjan,2011,3BR,106
+10,Al Barsha South Fourth,Arjan,Arjan,2011,4BR+,24
+10,Al Barsha South Fourth,Arjan,Arjan,2011,Non-residential,28
+10,Al Barsha South Fourth,Arjan,Arjan,2011,Studio,276
+10,Al Barsha South Fourth,Arjan,Arjan,2012,1BR,613
+10,Al Barsha South Fourth,Arjan,Arjan,2012,2BR,138
+10,Al Barsha South Fourth,Arjan,Arjan,2012,3BR,169
+10,Al Barsha South Fourth,Arjan,Arjan,2012,4BR+,45
+10,Al Barsha South Fourth,Arjan,Arjan,2012,Non-residential,55
+10,Al Barsha South Fourth,Arjan,Arjan,2012,Penthouse,7
+10,Al Barsha South Fourth,Arjan,Arjan,2012,Studio,374
+10,Al Barsha South Fourth,Arjan,Arjan,2013,1BR,1211
+10,Al Barsha South Fourth,Arjan,Arjan,2013,2BR,316
+10,Al Barsha South Fourth,Arjan,Arjan,2013,3BR,248
+10,Al Barsha South Fourth,Arjan,Arjan,2013,4BR+,63
+10,Al Barsha South Fourth,Arjan,Arjan,2013,Non-residential,97
+10,Al Barsha South Fourth,Arjan,Arjan,2013,Studio,513
+10,Al Barsha South Fourth,Arjan,Arjan,2014,1BR,1227
+10,Al Barsha South Fourth,Arjan,Arjan,2014,2BR,397
+10,Al Barsha South Fourth,Arjan,Arjan,2014,3BR,133
+10,Al Barsha South Fourth,Arjan,Arjan,2014,4BR+,41
+10,Al Barsha South Fourth,Arjan,Arjan,2014,Non-residential,75
+10,Al Barsha South Fourth,Arjan,Arjan,2014,Penthouse,15
+10,Al Barsha South Fourth,Arjan,Arjan,2014,Studio,611
+10,Al Barsha South Fourth,Arjan,Arjan,2015,1BR,754
+10,Al Barsha South Fourth,Arjan,Arjan,2015,2BR,303
+10,Al Barsha South Fourth,Arjan,Arjan,2015,3BR,113
+10,Al Barsha South Fourth,Arjan,Arjan,2015,4BR+,98
+10,Al Barsha South Fourth,Arjan,Arjan,2015,Non-residential,34
+10,Al Barsha South Fourth,Arjan,Arjan,2015,Penthouse,20
+10,Al Barsha South Fourth,Arjan,Arjan,2015,Studio,592
+10,Al Barsha South Fourth,Arjan,Arjan,2016,1BR,555
+10,Al Barsha South Fourth,Arjan,Arjan,2016,2BR,226
+10,Al Barsha South Fourth,Arjan,Arjan,2016,3BR,94
+10,Al Barsha South Fourth,Arjan,Arjan,2016,4BR+,106
+10,Al Barsha South Fourth,Arjan,Arjan,2016,Non-residential,10
+10,Al Barsha South Fourth,Arjan,Arjan,2016,Studio,606
+10,Al Barsha South Fourth,Arjan,Arjan,2017,1BR,1069
+10,Al Barsha South Fourth,Arjan,Arjan,2017,2BR,413
+10,Al Barsha South Fourth,Arjan,Arjan,2017,3BR,97
+10,Al Barsha South Fourth,Arjan,Arjan,2017,4BR+,72
+10,Al Barsha South Fourth,Arjan,Arjan,2017,Non-residential,26
+10,Al Barsha South Fourth,Arjan,Arjan,2017,Studio,902
+10,Al Barsha South Fourth,Arjan,Arjan,2018,1BR,808
+10,Al Barsha South Fourth,Arjan,Arjan,2018,2BR,246
+10,Al Barsha South Fourth,Arjan,Arjan,2018,3BR,106
+10,Al Barsha South Fourth,Arjan,Arjan,2018,4BR+,53
+10,Al Barsha South Fourth,Arjan,Arjan,2018,Non-residential,13
+10,Al Barsha South Fourth,Arjan,Arjan,2018,Studio,563
+10,Al Barsha South Fourth,Arjan,Arjan,2019,1BR,596
+10,Al Barsha South Fourth,Arjan,Arjan,2019,2BR,143
+10,Al Barsha South Fourth,Arjan,Arjan,2019,3BR,147
+10,Al Barsha South Fourth,Arjan,Arjan,2019,4BR+,58
+10,Al Barsha South Fourth,Arjan,Arjan,2019,Non-residential,24
+10,Al Barsha South Fourth,Arjan,Arjan,2019,Studio,503
+10,Al Barsha South Fourth,Arjan,Arjan,2020,1BR,839
+10,Al Barsha South Fourth,Arjan,Arjan,2020,2BR,221
+10,Al Barsha South Fourth,Arjan,Arjan,2020,3BR,81
+10,Al Barsha South Fourth,Arjan,Arjan,2020,4BR+,40
+10,Al Barsha South Fourth,Arjan,Arjan,2020,Non-residential,18
+10,Al Barsha South Fourth,Arjan,Arjan,2020,Studio,751
+10,Al Barsha South Fourth,Arjan,Arjan,2021,1BR,1615
+10,Al Barsha South Fourth,Arjan,Arjan,2021,2BR,548
+10,Al Barsha South Fourth,Arjan,Arjan,2021,3BR,181
+10,Al Barsha South Fourth,Arjan,Arjan,2021,4BR+,56
+10,Al Barsha South Fourth,Arjan,Arjan,2021,Non-residential,22
+10,Al Barsha South Fourth,Arjan,Arjan,2021,Studio,1004
+10,Al Barsha South Fourth,Arjan,Arjan,2022,1BR,2599
+10,Al Barsha South Fourth,Arjan,Arjan,2022,2BR,885
+10,Al Barsha South Fourth,Arjan,Arjan,2022,3BR,286
+10,Al Barsha South Fourth,Arjan,Arjan,2022,4BR+,111
+10,Al Barsha South Fourth,Arjan,Arjan,2022,Non-residential,15
+10,Al Barsha South Fourth,Arjan,Arjan,2022,Studio,1675
+10,Al Barsha South Fourth,Arjan,Arjan,2023,1BR,779
+10,Al Barsha South Fourth,Arjan,Arjan,2023,2BR,228
+10,Al Barsha South Fourth,Arjan,Arjan,2023,3BR,68
+10,Al Barsha South Fourth,Arjan,Arjan,2023,4BR+,25
+10,Al Barsha South Fourth,Arjan,Arjan,2023,Studio,499
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2010,1BR,285
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2010,2BR,41
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2014,1BR,80
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2014,2BR,65
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2015,1BR,20
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2015,2BR,26
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2016,1BR,99
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2016,2BR,30
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2016,Studio,52
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2017,1BR,27
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2017,2BR,22
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2018,1BR,29
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2018,2BR,12
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2018,Studio,17
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2019,1BR,56
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2019,2BR,14
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2019,Studio,164
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2020,1BR,65
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2020,Studio,80
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2021,1BR,44
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2021,2BR,21
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2021,Studio,24
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2022,1BR,173
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2022,2BR,63
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2022,3BR,7
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2022,Studio,186
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2023,1BR,59
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2023,2BR,35
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,2023,Studio,80
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2010,1BR,11
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2010,Studio,37
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2011,Non-residential,15
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2012,1BR,49
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2012,2BR,19
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2012,Non-residential,17
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2013,1BR,58
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2013,2BR,22
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2013,Non-residential,65
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2013,Studio,170
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2014,1BR,76
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2014,2BR,21
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2014,Non-residential,60
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2014,Studio,258
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2015,1BR,112
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2015,2BR,10
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2015,Non-residential,98
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2015,Studio,324
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2016,1BR,111
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2016,2BR,29
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2016,Non-residential,30
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2016,Studio,248
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2017,1BR,201
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2017,2BR,100
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2017,3BR,44
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2017,Non-residential,22
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2017,Studio,594
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2018,1BR,119
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2018,2BR,74
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2018,3BR,5
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2018,Non-residential,15
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2018,Studio,411
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2019,1BR,62
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2019,2BR,82
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2019,Studio,309
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2020,1BR,263
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2020,2BR,126
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2020,3BR,30
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2020,Non-residential,48
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2020,Studio,331
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2021,1BR,485
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2021,2BR,165
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2021,Non-residential,23
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2021,Studio,394
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2022,1BR,1112
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2022,2BR,403
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2022,3BR,13
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2022,Non-residential,40
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2022,Studio,971
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2023,1BR,142
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2023,2BR,53
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2023,Non-residential,5
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,2023,Studio,140
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2014,1BR,44
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2014,2BR,13
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2014,4BR+,18
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2014,Studio,59
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2015,1BR,386
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2015,2BR,119
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2015,3BR,21
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2015,4BR+,9
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2015,Studio,408
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2016,1BR,106
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2016,2BR,38
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2016,4BR+,16
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2016,Studio,146
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2017,1BR,35
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2017,2BR,6
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2017,4BR+,88
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2017,Studio,76
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2018,1BR,124
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2018,2BR,36
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2018,3BR,7
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2018,4BR+,42
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2018,Studio,49
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2019,1BR,81
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2019,2BR,26
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2019,4BR+,56
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2019,Studio,95
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2020,1BR,69
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2020,2BR,21
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2020,Studio,41
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2021,1BR,35
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2021,Studio,38
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2022,1BR,31
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2022,2BR,9
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,2022,Studio,31
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2010,1BR,46
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2010,2BR,57
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2010,3BR,16
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2010,Studio,11
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2011,1BR,148
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2011,2BR,109
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2011,3BR,45
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2011,Studio,32
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2012,1BR,107
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2012,2BR,86
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2012,3BR,30
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2012,Studio,30
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2013,1BR,594
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2013,2BR,485
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2013,3BR,161
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2013,Studio,160
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2014,1BR,602
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2014,2BR,450
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2014,3BR,131
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2014,Studio,169
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2015,1BR,194
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2015,2BR,186
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2015,3BR,66
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2015,Studio,67
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2016,1BR,138
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2016,2BR,101
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2016,3BR,36
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2016,Studio,36
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2017,1BR,97
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2017,2BR,57
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2017,3BR,23
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2017,Studio,36
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2018,1BR,171
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2018,2BR,42
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2018,3BR,6
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2018,Studio,15
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2019,1BR,97
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2019,2BR,42
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2019,3BR,14
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2019,Studio,11
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2020,1BR,109
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2020,2BR,41
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2020,3BR,17
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2020,Studio,9
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2021,1BR,107
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2021,2BR,77
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2021,3BR,28
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2021,Studio,18
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2022,1BR,125
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2022,2BR,198
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2022,3BR,33
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2022,4BR+,43
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2022,Studio,37
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2023,1BR,20
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2023,2BR,9
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),2023,4BR+,6
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2010,1BR,172
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2010,2BR,143
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2010,3BR,177
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2010,4BR+,62
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2010,Studio,36
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,1BR,456
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,2BR,355
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,3BR,194
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,4BR+,23
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,Non-residential,12
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2011,Studio,30
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,1BR,70
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,2BR,46
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,3BR,35
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,4BR+,16
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,Non-residential,6
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2012,Studio,11
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,1BR,512
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,2BR,358
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,3BR,208
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,4BR+,46
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,Non-residential,140
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2013,Studio,135
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,1BR,295
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,2BR,166
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,3BR,108
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,4BR+,6
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,Non-residential,43
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2014,Studio,97
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,1BR,80
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,2BR,86
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,3BR,46
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,4BR+,7
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,Non-residential,37
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2015,Studio,10
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2016,1BR,130
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2016,2BR,60
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2016,3BR,39
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2016,Non-residential,17
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2016,Studio,84
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,1BR,106
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,2BR,57
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,3BR,42
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,4BR+,6
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,Non-residential,7
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2017,Studio,22
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2018,1BR,33
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2018,2BR,35
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2018,3BR,20
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2018,4BR+,29
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2018,Studio,7
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,1BR,92
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,2BR,74
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,3BR,19
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,4BR+,24
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,Non-residential,10
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2019,Studio,15
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2020,1BR,26
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2020,2BR,52
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2020,3BR,97
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2020,4BR+,21
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2020,Non-residential,8
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,1BR,60
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,2BR,127
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,3BR,148
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,4BR+,55
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,Non-residential,12
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2021,Studio,6
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,1BR,95
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,2BR,108
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,3BR,105
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,4BR+,16
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,Non-residential,38
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2022,Studio,10
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2023,1BR,12
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2023,2BR,13
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2023,3BR,5
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2023,4BR+,12
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,2023,Non-residential,7
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2010,1BR,1042
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2010,2BR,228
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2010,3BR,9
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2010,Non-residential,410
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2010,Studio,471
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2011,1BR,295
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2011,2BR,123
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2011,Studio,76
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2012,1BR,248
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2012,2BR,166
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2012,Studio,122
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2013,1BR,968
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2013,2BR,369
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2013,3BR,7
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2013,Studio,890
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2014,1BR,1216
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2014,2BR,480
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2014,3BR,46
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2014,Studio,1163
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2015,1BR,1149
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2015,2BR,562
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2015,3BR,31
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2015,Studio,1004
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2016,1BR,662
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2016,2BR,290
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2016,3BR,25
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2016,Non-residential,13
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2016,Studio,718
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2017,1BR,547
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2017,2BR,201
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2017,3BR,21
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2017,Studio,539
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2018,1BR,397
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2018,2BR,160
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2018,3BR,20
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2018,Non-residential,7
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2018,Studio,369
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2019,1BR,298
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2019,2BR,135
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2019,3BR,13
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2019,Studio,303
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,1BR,285
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,2BR,109
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,3BR,590
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,4BR+,281
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,Non-residential,6
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2020,Studio,230
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,1BR,350
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,2BR,237
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,3BR,345
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,4BR+,605
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,Non-residential,16
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2021,Studio,370
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,1BR,370
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,2BR,189
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,3BR,150
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,4BR+,133
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,Non-residential,16
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2022,Studio,358
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2023,1BR,67
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2023,2BR,28
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2023,3BR,40
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2023,4BR+,22
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,2023,Studio,70
+31,Al Hebiah Second,,Al Hebiah Second,2015,1BR,218
+31,Al Hebiah Second,,Al Hebiah Second,2015,2BR,133
+31,Al Hebiah Second,,Al Hebiah Second,2015,3BR,51
+31,Al Hebiah Second,,Al Hebiah Second,2015,Non-residential,5
+31,Al Hebiah Second,,Al Hebiah Second,2015,Studio,96
+31,Al Hebiah Second,,Al Hebiah Second,2016,1BR,31
+31,Al Hebiah Second,,Al Hebiah Second,2016,2BR,29
+31,Al Hebiah Second,,Al Hebiah Second,2016,3BR,7
+31,Al Hebiah Second,,Al Hebiah Second,2017,1BR,10
+31,Al Hebiah Second,,Al Hebiah Second,2017,2BR,19
+31,Al Hebiah Second,,Al Hebiah Second,2017,Studio,7
+31,Al Hebiah Second,,Al Hebiah Second,2018,1BR,15
+31,Al Hebiah Second,,Al Hebiah Second,2018,2BR,12
+31,Al Hebiah Second,,Al Hebiah Second,2018,Non-residential,11
+31,Al Hebiah Second,,Al Hebiah Second,2018,Studio,9
+31,Al Hebiah Second,,Al Hebiah Second,2019,1BR,36
+31,Al Hebiah Second,,Al Hebiah Second,2019,2BR,9
+31,Al Hebiah Second,,Al Hebiah Second,2020,1BR,17
+31,Al Hebiah Second,,Al Hebiah Second,2020,2BR,11
+31,Al Hebiah Second,,Al Hebiah Second,2020,Studio,53
+31,Al Hebiah Second,,Al Hebiah Second,2021,1BR,37
+31,Al Hebiah Second,,Al Hebiah Second,2021,2BR,22
+31,Al Hebiah Second,,Al Hebiah Second,2021,3BR,6
+31,Al Hebiah Second,,Al Hebiah Second,2021,Non-residential,5
+31,Al Hebiah Second,,Al Hebiah Second,2021,Studio,114
+31,Al Hebiah Second,,Al Hebiah Second,2022,1BR,48
+31,Al Hebiah Second,,Al Hebiah Second,2022,2BR,19
+31,Al Hebiah Second,,Al Hebiah Second,2022,Studio,53
+31,Al Hebiah Second,,Al Hebiah Second,2023,1BR,28
+31,Al Hebiah Second,,Al Hebiah Second,2023,Studio,65
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2017,1BR,46
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2017,2BR,15
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2019,1BR,5
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2019,2BR,7
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2020,1BR,18
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2020,2BR,13
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2021,2BR,38
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2021,3BR,8
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2022,2BR,11
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2022,3BR,381
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2022,4BR+,245
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2023,3BR,5
+32,Al Hebiah Sixth,DAMAC Lagoons,DAMAC Lagoons,2023,4BR+,14
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2013,1BR,101
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2013,2BR,43
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2013,3BR,7
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2013,Studio,80
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2014,1BR,426
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2014,2BR,134
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2014,3BR,29
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2014,Studio,627
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2015,1BR,158
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2015,2BR,31
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2015,Studio,683
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2016,1BR,48
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2016,2BR,14
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2016,3BR,6
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2016,Studio,43
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2017,1BR,256
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2017,2BR,24
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2017,Studio,74
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2018,1BR,253
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2018,2BR,27
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2018,Studio,54
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2019,1BR,157
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2019,2BR,76
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2019,3BR,29
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2019,Studio,176
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2020,1BR,156
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2020,2BR,57
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2020,3BR,9
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2020,Studio,130
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2021,1BR,162
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2021,2BR,161
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2021,3BR,77
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2021,Studio,265
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2022,1BR,409
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2022,2BR,167
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2022,3BR,68
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2022,Studio,301
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2023,1BR,214
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2023,2BR,63
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2023,3BR,18
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,2023,Studio,66
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2010,1BR,72
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2010,2BR,27
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2010,Studio,17
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2011,1BR,15
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2011,2BR,16
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2011,3BR,12
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2011,Studio,11
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2012,1BR,12
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2012,2BR,37
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2012,3BR,44
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2012,4BR+,15
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2013,1BR,28
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2013,2BR,41
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2013,3BR,46
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2013,4BR+,7
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2013,Studio,8
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2014,1BR,56
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2014,2BR,36
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2014,3BR,40
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2014,4BR+,12
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2014,Studio,31
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2015,1BR,63
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2015,2BR,73
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2015,3BR,36
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2015,Studio,41
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2016,1BR,83
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2016,2BR,48
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2016,3BR,53
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2016,4BR+,5
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2016,Studio,28
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2017,1BR,138
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2017,2BR,49
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2017,3BR,40
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2017,Non-residential,5
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2017,Studio,274
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,1BR,73
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,2BR,40
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,3BR,20
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,4BR+,5
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,Non-residential,5
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2018,Studio,74
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2019,1BR,66
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2019,2BR,26
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2019,3BR,19
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2019,4BR+,5
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2019,Studio,83
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2020,1BR,160
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2020,2BR,54
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2020,3BR,26
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2020,Studio,13
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2021,1BR,420
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2021,2BR,129
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2021,3BR,73
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2021,Studio,7
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2022,1BR,568
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2022,2BR,126
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2022,3BR,105
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2022,Studio,227
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2023,1BR,60
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2023,2BR,23
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2023,3BR,13
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,2023,Studio,35
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2015,1BR,190
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2015,2BR,242
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2015,3BR,145
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2016,1BR,344
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2016,2BR,214
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2016,3BR,68
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2017,1BR,483
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2017,2BR,670
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2017,3BR,170
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2018,1BR,288
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2018,2BR,374
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2018,3BR,85
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2018,4BR+,9
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2019,1BR,855
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2019,2BR,717
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2019,3BR,187
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2019,4BR+,9
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2020,1BR,419
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2020,2BR,374
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2020,3BR,80
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2020,4BR+,5
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2021,1BR,176
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2021,2BR,440
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2021,3BR,423
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2021,4BR+,64
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2022,1BR,1249
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2022,2BR,1420
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2022,3BR,854
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2022,4BR+,58
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2023,1BR,309
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2023,2BR,400
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2023,3BR,193
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,2023,4BR+,14
+43,Al Kheeran,,Al Kheeran,2012,3BR,10
+43,Al Kheeran,,Al Kheeran,2012,4BR+,12
+43,Al Kheeran,,Al Kheeran,2013,2BR,23
+43,Al Kheeran,,Al Kheeran,2013,3BR,73
+43,Al Kheeran,,Al Kheeran,2013,4BR+,23
+43,Al Kheeran,,Al Kheeran,2014,1BR,15
+43,Al Kheeran,,Al Kheeran,2014,2BR,33
+43,Al Kheeran,,Al Kheeran,2014,3BR,70
+43,Al Kheeran,,Al Kheeran,2014,Studio,7
+43,Al Kheeran,,Al Kheeran,2015,2BR,11
+43,Al Kheeran,,Al Kheeran,2015,3BR,13
+43,Al Kheeran,,Al Kheeran,2016,2BR,11
+43,Al Kheeran,,Al Kheeran,2016,3BR,20
+43,Al Kheeran,,Al Kheeran,2017,1BR,13
+43,Al Kheeran,,Al Kheeran,2017,2BR,26
+43,Al Kheeran,,Al Kheeran,2017,3BR,20
+43,Al Kheeran,,Al Kheeran,2018,2BR,21
+43,Al Kheeran,,Al Kheeran,2018,3BR,14
+43,Al Kheeran,,Al Kheeran,2019,1BR,15
+43,Al Kheeran,,Al Kheeran,2019,2BR,12
+43,Al Kheeran,,Al Kheeran,2019,3BR,22
+43,Al Kheeran,,Al Kheeran,2020,2BR,10
+43,Al Kheeran,,Al Kheeran,2020,3BR,11
+43,Al Kheeran,,Al Kheeran,2021,2BR,11
+43,Al Kheeran,,Al Kheeran,2021,3BR,19
+43,Al Kheeran,,Al Kheeran,2022,2BR,11
+43,Al Kheeran,,Al Kheeran,2022,3BR,23
+43,Al Kheeran,,Al Kheeran,2022,4BR+,5
+44,Al Kifaf,,Al Kifaf,2018,1BR,59
+44,Al Kifaf,,Al Kifaf,2018,2BR,195
+44,Al Kifaf,,Al Kifaf,2018,3BR,47
+44,Al Kifaf,,Al Kifaf,2018,4BR+,7
+44,Al Kifaf,,Al Kifaf,2019,1BR,10
+44,Al Kifaf,,Al Kifaf,2019,2BR,35
+44,Al Kifaf,,Al Kifaf,2019,3BR,15
+44,Al Kifaf,,Al Kifaf,2020,1BR,8
+44,Al Kifaf,,Al Kifaf,2020,2BR,37
+44,Al Kifaf,,Al Kifaf,2020,3BR,10
+44,Al Kifaf,,Al Kifaf,2021,1BR,9
+44,Al Kifaf,,Al Kifaf,2021,2BR,67
+44,Al Kifaf,,Al Kifaf,2021,3BR,20
+44,Al Kifaf,,Al Kifaf,2022,1BR,162
+44,Al Kifaf,,Al Kifaf,2022,2BR,268
+44,Al Kifaf,,Al Kifaf,2022,3BR,31
+44,Al Kifaf,,Al Kifaf,2023,1BR,86
+44,Al Kifaf,,Al Kifaf,2023,2BR,105
+49,Al Merkadh,Meydan,Meydan,2015,1BR,7
+49,Al Merkadh,Meydan,Meydan,2015,3BR,5
+49,Al Merkadh,Meydan,Meydan,2016,1BR,11
+49,Al Merkadh,Meydan,Meydan,2016,Studio,5
+49,Al Merkadh,Meydan,Meydan,2017,1BR,154
+49,Al Merkadh,Meydan,Meydan,2017,2BR,45
+49,Al Merkadh,Meydan,Meydan,2017,3BR,15
+49,Al Merkadh,Meydan,Meydan,2017,Studio,242
+49,Al Merkadh,Meydan,Meydan,2018,1BR,584
+49,Al Merkadh,Meydan,Meydan,2018,2BR,163
+49,Al Merkadh,Meydan,Meydan,2018,3BR,47
+49,Al Merkadh,Meydan,Meydan,2018,Studio,878
+49,Al Merkadh,Meydan,Meydan,2019,1BR,577
+49,Al Merkadh,Meydan,Meydan,2019,2BR,151
+49,Al Merkadh,Meydan,Meydan,2019,3BR,52
+49,Al Merkadh,Meydan,Meydan,2019,Studio,641
+49,Al Merkadh,Meydan,Meydan,2020,1BR,861
+49,Al Merkadh,Meydan,Meydan,2020,2BR,439
+49,Al Merkadh,Meydan,Meydan,2020,3BR,89
+49,Al Merkadh,Meydan,Meydan,2020,Studio,203
+49,Al Merkadh,Meydan,Meydan,2021,1BR,1133
+49,Al Merkadh,Meydan,Meydan,2021,2BR,654
+49,Al Merkadh,Meydan,Meydan,2021,3BR,174
+49,Al Merkadh,Meydan,Meydan,2021,4BR+,28
+49,Al Merkadh,Meydan,Meydan,2021,Non-residential,5
+49,Al Merkadh,Meydan,Meydan,2021,Studio,424
+49,Al Merkadh,Meydan,Meydan,2022,1BR,2767
+49,Al Merkadh,Meydan,Meydan,2022,2BR,1150
+49,Al Merkadh,Meydan,Meydan,2022,3BR,257
+49,Al Merkadh,Meydan,Meydan,2022,4BR+,45
+49,Al Merkadh,Meydan,Meydan,2022,Studio,895
+49,Al Merkadh,Meydan,Meydan,2023,1BR,444
+49,Al Merkadh,Meydan,Meydan,2023,2BR,196
+49,Al Merkadh,Meydan,Meydan,2023,3BR,50
+49,Al Merkadh,Meydan,Meydan,2023,Studio,107
+63,Al Qusais Industrial Fourth,,Al Qusais Industrial Fourth,2017,1BR,43
+63,Al Qusais Industrial Fourth,,Al Qusais Industrial Fourth,2017,Studio,18
+78,Al Safouh First,,Al Safouh First,2011,2BR,10
+78,Al Safouh First,,Al Safouh First,2011,3BR,7
+78,Al Safouh First,,Al Safouh First,2013,1BR,65
+78,Al Safouh First,,Al Safouh First,2013,2BR,60
+78,Al Safouh First,,Al Safouh First,2013,Studio,42
+78,Al Safouh First,,Al Safouh First,2014,1BR,11
+78,Al Safouh First,,Al Safouh First,2014,2BR,20
+78,Al Safouh First,,Al Safouh First,2014,Studio,5
+78,Al Safouh First,,Al Safouh First,2015,1BR,26
+78,Al Safouh First,,Al Safouh First,2015,2BR,24
+78,Al Safouh First,,Al Safouh First,2015,Studio,19
+78,Al Safouh First,,Al Safouh First,2016,1BR,33
+78,Al Safouh First,,Al Safouh First,2016,2BR,11
+78,Al Safouh First,,Al Safouh First,2016,3BR,13
+78,Al Safouh First,,Al Safouh First,2017,1BR,30
+78,Al Safouh First,,Al Safouh First,2017,2BR,25
+78,Al Safouh First,,Al Safouh First,2017,3BR,5
+78,Al Safouh First,,Al Safouh First,2018,1BR,11
+78,Al Safouh First,,Al Safouh First,2018,2BR,17
+78,Al Safouh First,,Al Safouh First,2018,3BR,14
+78,Al Safouh First,,Al Safouh First,2019,1BR,6
+78,Al Safouh First,,Al Safouh First,2019,2BR,11
+78,Al Safouh First,,Al Safouh First,2019,Studio,5
+78,Al Safouh First,,Al Safouh First,2021,1BR,6
+78,Al Safouh First,,Al Safouh First,2021,2BR,15
+78,Al Safouh First,,Al Safouh First,2023,2BR,5
+79,Al Safouh Second,,Al Safouh Second,2010,1BR,6
+79,Al Safouh Second,,Al Safouh Second,2010,Non-residential,19
+79,Al Safouh Second,,Al Safouh Second,2011,Non-residential,7
+79,Al Safouh Second,,Al Safouh Second,2012,1BR,6
+79,Al Safouh Second,,Al Safouh Second,2012,Non-residential,24
+79,Al Safouh Second,,Al Safouh Second,2012,Penthouse,8
+79,Al Safouh Second,,Al Safouh Second,2013,1BR,20
+79,Al Safouh Second,,Al Safouh Second,2013,2BR,12
+79,Al Safouh Second,,Al Safouh Second,2013,Non-residential,37
+79,Al Safouh Second,,Al Safouh Second,2013,Penthouse,38
+79,Al Safouh Second,,Al Safouh Second,2014,Non-residential,7
+79,Al Safouh Second,,Al Safouh Second,2021,1BR,61
+79,Al Safouh Second,,Al Safouh Second,2021,2BR,111
+79,Al Safouh Second,,Al Safouh Second,2021,3BR,23
+79,Al Safouh Second,,Al Safouh Second,2022,1BR,65
+79,Al Safouh Second,,Al Safouh Second,2022,2BR,155
+79,Al Safouh Second,,Al Safouh Second,2022,3BR,60
+79,Al Safouh Second,,Al Safouh Second,2022,4BR+,23
+79,Al Safouh Second,,Al Safouh Second,2023,2BR,8
+79,Al Safouh Second,,Al Safouh Second,2023,4BR+,25
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2010,2BR,340
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2010,3BR,460
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2010,4BR+,79
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2011,2BR,251
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2011,3BR,343
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2011,4BR+,81
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2012,2BR,252
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2012,3BR,314
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2012,4BR+,71
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2013,2BR,262
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2013,3BR,371
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2013,4BR+,62
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2014,2BR,146
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2014,3BR,205
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2014,4BR+,34
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2015,2BR,127
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2015,3BR,168
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2015,4BR+,35
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2016,2BR,118
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2016,3BR,149
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2016,4BR+,18
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2017,2BR,106
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2017,3BR,165
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2017,4BR+,25
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2018,2BR,83
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2018,3BR,146
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2018,4BR+,40
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2019,2BR,87
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2019,3BR,116
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2019,4BR+,25
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2020,2BR,71
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2020,3BR,156
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2020,4BR+,24
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2021,2BR,122
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2021,3BR,219
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2021,4BR+,43
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2022,2BR,161
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2022,3BR,242
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2022,4BR+,47
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2023,2BR,23
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2023,3BR,28
+82,Al Thanayah Fourth,The Greens & The Views,The Greens & The Views,2023,4BR+,8
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,1BR,1759
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,2BR,898
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,3BR,170
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,4BR+,25
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,Non-residential,1364
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2010,Studio,634
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,1BR,961
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,2BR,789
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,3BR,138
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,4BR+,35
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,Non-residential,2183
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,Penthouse,7
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2011,Studio,521
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,1BR,1129
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,2BR,899
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,3BR,249
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,4BR+,49
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,Non-residential,2110
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,Penthouse,12
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2012,Studio,596
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,1BR,1511
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,2BR,987
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,3BR,291
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,4BR+,27
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,Non-residential,2732
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,Penthouse,9
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2013,Studio,738
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,1BR,667
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,2BR,489
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,3BR,142
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,4BR+,14
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,Non-residential,1050
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,Penthouse,6
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2014,Studio,349
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,1BR,593
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,2BR,320
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,3BR,118
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,4BR+,9
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,Non-residential,588
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2015,Studio,266
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,1BR,478
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,2BR,302
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,3BR,69
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,4BR+,5
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,Non-residential,430
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2016,Studio,254
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,1BR,409
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,2BR,261
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,3BR,78
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,4BR+,14
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,Non-residential,384
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2017,Studio,178
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,1BR,255
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,2BR,166
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,3BR,60
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,4BR+,6
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,Non-residential,362
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2018,Studio,104
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,1BR,254
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,2BR,141
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,3BR,46
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,4BR+,6
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,Non-residential,327
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2019,Studio,539
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,1BR,266
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,2BR,153
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,3BR,52
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,4BR+,8
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,Non-residential,297
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2020,Studio,317
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,1BR,893
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,2BR,420
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,3BR,146
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,4BR+,10
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,Non-residential,666
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2021,Studio,893
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,1BR,739
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,2BR,508
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,3BR,210
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,4BR+,15
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,Non-residential,681
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,Penthouse,8
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2022,Studio,278
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,1BR,122
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,2BR,49
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,3BR,57
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,4BR+,5
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,Non-residential,124
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,2023,Studio,138
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2010,1BR,16
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2010,2BR,53
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2010,Non-residential,94
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2010,Studio,108
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2011,1BR,11
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2011,2BR,26
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2011,Non-residential,139
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2011,Studio,29
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2012,1BR,44
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2012,2BR,18
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2012,Non-residential,190
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2012,Studio,59
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2013,1BR,22
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2013,2BR,32
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2013,Non-residential,326
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2013,Studio,46
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2014,1BR,30
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2014,2BR,51
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2014,Non-residential,161
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2014,Studio,27
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,1BR,186
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,2BR,111
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,3BR,15
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,Non-residential,97
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,Penthouse,5
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2015,Studio,80
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2016,1BR,53
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2016,2BR,39
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2016,Non-residential,53
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2016,Studio,78
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2017,1BR,78
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2017,2BR,66
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2017,3BR,20
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2017,Non-residential,72
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2017,Studio,148
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2018,1BR,90
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2018,2BR,30
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2018,3BR,7
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2018,Non-residential,51
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2018,Studio,244
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2019,1BR,34
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2019,2BR,14
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2019,Non-residential,69
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2019,Studio,165
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2020,1BR,29
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2020,2BR,8
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2020,Non-residential,39
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2020,Studio,250
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2021,1BR,54
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2021,2BR,14
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2021,Non-residential,72
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2021,Studio,68
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2022,1BR,75
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2022,2BR,28
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2022,3BR,7
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2022,Non-residential,156
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2022,Studio,136
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2023,2BR,6
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2023,Non-residential,5
+84,Al Thanyah First,Emirates Hills,Emirates Hills,2023,Studio,6
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,1BR,1015
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,2BR,873
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,3BR,343
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,4BR+,16
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,Non-residential,6
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2010,Studio,114
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,1BR,696
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,2BR,603
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,3BR,201
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,4BR+,10
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,Non-residential,21
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2011,Studio,117
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,1BR,524
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,2BR,462
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,3BR,229
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,4BR+,7
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,Penthouse,12
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2012,Studio,109
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2013,1BR,599
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2013,2BR,559
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2013,3BR,390
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2013,4BR+,6
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2013,Studio,62
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,1BR,361
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,2BR,267
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,3BR,183
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,4BR+,12
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,Penthouse,5
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2014,Studio,43
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,1BR,326
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,2BR,315
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,3BR,210
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,Non-residential,64
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,Penthouse,11
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2015,Studio,29
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2016,1BR,242
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2016,2BR,205
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2016,3BR,98
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2016,Non-residential,24
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2016,Studio,32
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2017,1BR,253
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2017,2BR,176
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2017,3BR,107
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2017,Non-residential,25
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2017,Studio,27
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,1BR,141
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,2BR,137
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,3BR,63
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,4BR+,6
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,Non-residential,39
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2018,Studio,16
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,1BR,127
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,2BR,117
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,3BR,85
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,4BR+,6
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,Non-residential,21
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2019,Studio,15
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,1BR,92
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,2BR,117
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,3BR,83
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,4BR+,8
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,Non-residential,14
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2020,Studio,11
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2021,1BR,154
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2021,2BR,175
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2021,3BR,112
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2021,Non-residential,19
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2021,Studio,18
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,1BR,285
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,2BR,329
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,3BR,212
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,4BR+,8
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,Non-residential,68
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2022,Studio,24
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2023,1BR,55
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2023,2BR,39
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2023,3BR,28
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2023,Non-residential,5
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),2023,Studio,6
+95,Al Warsan First,International City,International City,2010,1BR,1817
+95,Al Warsan First,International City,International City,2010,2BR,245
+95,Al Warsan First,International City,International City,2010,3BR,46
+95,Al Warsan First,International City,International City,2010,Non-residential,268
+95,Al Warsan First,International City,International City,2010,Studio,1797
+95,Al Warsan First,International City,International City,2011,1BR,690
+95,Al Warsan First,International City,International City,2011,2BR,120
+95,Al Warsan First,International City,International City,2011,3BR,19
+95,Al Warsan First,International City,International City,2011,Non-residential,232
+95,Al Warsan First,International City,International City,2011,Studio,709
+95,Al Warsan First,International City,International City,2012,1BR,830
+95,Al Warsan First,International City,International City,2012,2BR,144
+95,Al Warsan First,International City,International City,2012,3BR,17
+95,Al Warsan First,International City,International City,2012,Non-residential,567
+95,Al Warsan First,International City,International City,2012,Studio,831
+95,Al Warsan First,International City,International City,2013,1BR,1334
+95,Al Warsan First,International City,International City,2013,2BR,182
+95,Al Warsan First,International City,International City,2013,3BR,12
+95,Al Warsan First,International City,International City,2013,Non-residential,392
+95,Al Warsan First,International City,International City,2013,Studio,1432
+95,Al Warsan First,International City,International City,2014,1BR,1098
+95,Al Warsan First,International City,International City,2014,2BR,119
+95,Al Warsan First,International City,International City,2014,3BR,18
+95,Al Warsan First,International City,International City,2014,Non-residential,308
+95,Al Warsan First,International City,International City,2014,Studio,1064
+95,Al Warsan First,International City,International City,2015,1BR,716
+95,Al Warsan First,International City,International City,2015,2BR,108
+95,Al Warsan First,International City,International City,2015,3BR,14
+95,Al Warsan First,International City,International City,2015,Non-residential,252
+95,Al Warsan First,International City,International City,2015,Studio,828
+95,Al Warsan First,International City,International City,2016,1BR,739
+95,Al Warsan First,International City,International City,2016,2BR,60
+95,Al Warsan First,International City,International City,2016,3BR,8
+95,Al Warsan First,International City,International City,2016,Non-residential,201
+95,Al Warsan First,International City,International City,2016,Studio,779
+95,Al Warsan First,International City,International City,2017,1BR,577
+95,Al Warsan First,International City,International City,2017,2BR,82
+95,Al Warsan First,International City,International City,2017,3BR,13
+95,Al Warsan First,International City,International City,2017,Non-residential,177
+95,Al Warsan First,International City,International City,2017,Studio,611
+95,Al Warsan First,International City,International City,2018,1BR,853
+95,Al Warsan First,International City,International City,2018,2BR,154
+95,Al Warsan First,International City,International City,2018,3BR,19
+95,Al Warsan First,International City,International City,2018,Non-residential,112
+95,Al Warsan First,International City,International City,2018,Studio,914
+95,Al Warsan First,International City,International City,2019,1BR,459
+95,Al Warsan First,International City,International City,2019,2BR,63
+95,Al Warsan First,International City,International City,2019,3BR,10
+95,Al Warsan First,International City,International City,2019,Non-residential,112
+95,Al Warsan First,International City,International City,2019,Studio,480
+95,Al Warsan First,International City,International City,2020,1BR,400
+95,Al Warsan First,International City,International City,2020,2BR,44
+95,Al Warsan First,International City,International City,2020,3BR,6
+95,Al Warsan First,International City,International City,2020,Non-residential,98
+95,Al Warsan First,International City,International City,2020,Studio,515
+95,Al Warsan First,International City,International City,2021,1BR,431
+95,Al Warsan First,International City,International City,2021,2BR,55
+95,Al Warsan First,International City,International City,2021,3BR,274
+95,Al Warsan First,International City,International City,2021,Non-residential,167
+95,Al Warsan First,International City,International City,2021,Studio,384
+95,Al Warsan First,International City,International City,2022,1BR,688
+95,Al Warsan First,International City,International City,2022,2BR,90
+95,Al Warsan First,International City,International City,2022,3BR,117
+95,Al Warsan First,International City,International City,2022,Non-residential,221
+95,Al Warsan First,International City,International City,2022,Studio,741
+95,Al Warsan First,International City,International City,2023,1BR,140
+95,Al Warsan First,International City,International City,2023,2BR,33
+95,Al Warsan First,International City,International City,2023,3BR,8
+95,Al Warsan First,International City,International City,2023,Non-residential,62
+95,Al Warsan First,International City,International City,2023,Studio,176
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2016,1BR,247
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2016,2BR,440
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2016,3BR,270
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2016,4BR+,43
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2017,1BR,133
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2017,2BR,205
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2017,3BR,134
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2017,4BR+,19
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2018,1BR,37
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2018,2BR,60
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2018,3BR,62
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2018,4BR+,5
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2019,1BR,46
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2019,2BR,52
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2019,3BR,36
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2019,4BR+,9
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2019,Studio,195
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2020,1BR,18
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2020,2BR,22
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2020,3BR,13
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2020,Studio,64
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2021,1BR,46
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2021,2BR,81
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2021,3BR,31
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2021,Studio,122
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2022,1BR,799
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2022,2BR,1063
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2022,3BR,240
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2022,4BR+,5
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2022,Studio,6
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2023,1BR,90
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2023,2BR,88
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2023,3BR,33
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),2023,4BR+,5
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2013,3BR,1252
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2013,4BR+,675
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2014,3BR,1166
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2014,4BR+,393
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2015,3BR,290
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2015,4BR+,121
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2016,3BR,252
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2016,4BR+,139
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2017,3BR,391
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2017,4BR+,177
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2018,3BR,93
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2018,4BR+,54
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2019,3BR,287
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2019,4BR+,133
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2020,3BR,163
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2020,4BR+,84
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2021,3BR,228
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2021,4BR+,107
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2022,3BR,166
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2022,4BR+,92
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2023,3BR,36
+99,Al Yelayiss 1,Town Square (Al Yelayiss 1),Town Square (Al Yelayiss 1),2023,4BR+,14
+100,Al Yelayiss 2,Town Square,Town Square,2013,1BR,188
+100,Al Yelayiss 2,Town Square,Town Square,2013,2BR,125
+100,Al Yelayiss 2,Town Square,Town Square,2013,3BR,23
+100,Al Yelayiss 2,Town Square,Town Square,2015,1BR,141
+100,Al Yelayiss 2,Town Square,Town Square,2015,2BR,561
+100,Al Yelayiss 2,Town Square,Town Square,2015,3BR,912
+100,Al Yelayiss 2,Town Square,Town Square,2015,4BR+,192
+100,Al Yelayiss 2,Town Square,Town Square,2016,1BR,277
+100,Al Yelayiss 2,Town Square,Town Square,2016,2BR,414
+100,Al Yelayiss 2,Town Square,Town Square,2016,3BR,320
+100,Al Yelayiss 2,Town Square,Town Square,2016,4BR+,64
+100,Al Yelayiss 2,Town Square,Town Square,2016,Studio,29
+100,Al Yelayiss 2,Town Square,Town Square,2017,1BR,163
+100,Al Yelayiss 2,Town Square,Town Square,2017,2BR,270
+100,Al Yelayiss 2,Town Square,Town Square,2017,3BR,769
+100,Al Yelayiss 2,Town Square,Town Square,2017,4BR+,239
+100,Al Yelayiss 2,Town Square,Town Square,2018,1BR,182
+100,Al Yelayiss 2,Town Square,Town Square,2018,2BR,101
+100,Al Yelayiss 2,Town Square,Town Square,2018,3BR,410
+100,Al Yelayiss 2,Town Square,Town Square,2018,4BR+,109
+100,Al Yelayiss 2,Town Square,Town Square,2018,Studio,34
+100,Al Yelayiss 2,Town Square,Town Square,2019,1BR,40
+100,Al Yelayiss 2,Town Square,Town Square,2019,2BR,128
+100,Al Yelayiss 2,Town Square,Town Square,2019,3BR,245
+100,Al Yelayiss 2,Town Square,Town Square,2019,4BR+,79
+100,Al Yelayiss 2,Town Square,Town Square,2019,Studio,9
+100,Al Yelayiss 2,Town Square,Town Square,2020,1BR,332
+100,Al Yelayiss 2,Town Square,Town Square,2020,2BR,401
+100,Al Yelayiss 2,Town Square,Town Square,2020,3BR,351
+100,Al Yelayiss 2,Town Square,Town Square,2020,4BR+,105
+100,Al Yelayiss 2,Town Square,Town Square,2020,Studio,42
+100,Al Yelayiss 2,Town Square,Town Square,2021,1BR,197
+100,Al Yelayiss 2,Town Square,Town Square,2021,2BR,239
+100,Al Yelayiss 2,Town Square,Town Square,2021,3BR,545
+100,Al Yelayiss 2,Town Square,Town Square,2021,4BR+,164
+100,Al Yelayiss 2,Town Square,Town Square,2021,Studio,50
+100,Al Yelayiss 2,Town Square,Town Square,2022,1BR,41
+100,Al Yelayiss 2,Town Square,Town Square,2022,2BR,95
+100,Al Yelayiss 2,Town Square,Town Square,2022,3BR,517
+100,Al Yelayiss 2,Town Square,Town Square,2022,4BR+,138
+100,Al Yelayiss 2,Town Square,Town Square,2022,Studio,10
+100,Al Yelayiss 2,Town Square,Town Square,2023,1BR,385
+100,Al Yelayiss 2,Town Square,Town Square,2023,2BR,51
+100,Al Yelayiss 2,Town Square,Town Square,2023,3BR,193
+100,Al Yelayiss 2,Town Square,Town Square,2023,4BR+,54
+100,Al Yelayiss 2,Town Square,Town Square,2023,Studio,89
+102,Al Yufrah 1,,Al Yufrah 1,2020,3BR,57
+102,Al Yufrah 1,,Al Yufrah 1,2020,4BR+,24
+102,Al Yufrah 1,,Al Yufrah 1,2021,3BR,437
+102,Al Yufrah 1,,Al Yufrah 1,2021,4BR+,153
+102,Al Yufrah 1,,Al Yufrah 1,2022,3BR,544
+102,Al Yufrah 1,,Al Yufrah 1,2022,4BR+,215
+102,Al Yufrah 1,,Al Yufrah 1,2023,3BR,34
+102,Al Yufrah 1,,Al Yufrah 1,2023,4BR+,14
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2015,1BR,23
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2015,2BR,5
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2015,Studio,104
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2016,1BR,66
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2016,2BR,20
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2016,Studio,287
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2017,1BR,21
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2017,Studio,30
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2018,1BR,14
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2018,Studio,18
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2019,1BR,118
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2019,2BR,17
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2019,Studio,43
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2020,1BR,16
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2020,Studio,37
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2021,1BR,29
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2021,Studio,29
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2022,1BR,61
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2022,2BR,21
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2022,Studio,41
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2023,1BR,22
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2023,2BR,18
+103,Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,DAMAC Lagoons / Al Yufrah 2,2023,Studio,24
+117,Bukadra,,Bukadra,2010,1BR,32
+117,Bukadra,,Bukadra,2010,Non-residential,31
+117,Bukadra,,Bukadra,2010,Studio,17
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,1BR,2408
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,2BR,1565
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,3BR,316
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,4BR+,14
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,Non-residential,65
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2010,Studio,398
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,1BR,755
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,2BR,795
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,3BR,198
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,4BR+,25
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,Non-residential,39
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2011,Studio,114
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,1BR,1003
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,2BR,1051
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,3BR,234
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,4BR+,11
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,Non-residential,26
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2012,Studio,408
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,1BR,2447
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,2BR,2175
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,3BR,718
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,4BR+,62
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,Non-residential,32
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2013,Studio,444
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,1BR,1407
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,2BR,1383
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,3BR,506
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,4BR+,42
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,Non-residential,83
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2014,Studio,268
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,1BR,633
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,2BR,806
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,3BR,367
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,4BR+,48
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,Non-residential,61
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2015,Studio,121
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,1BR,691
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,2BR,726
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,3BR,296
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,4BR+,39
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,Non-residential,14
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2016,Studio,99
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,1BR,605
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,2BR,720
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,3BR,266
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,4BR+,38
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,Non-residential,17
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2017,Studio,101
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,1BR,546
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,2BR,476
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,3BR,160
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,4BR+,23
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,Non-residential,18
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2018,Studio,59
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,1BR,870
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,2BR,763
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,3BR,246
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,4BR+,23
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,Non-residential,11
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2019,Studio,61
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,1BR,589
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,2BR,665
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,3BR,266
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,4BR+,26
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,Non-residential,13
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2020,Studio,62
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,1BR,766
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,2BR,1043
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,3BR,503
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,4BR+,104
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,Non-residential,27
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2021,Studio,92
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,1BR,1855
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,2BR,1947
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,3BR,781
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,4BR+,123
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,Non-residential,39
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2022,Studio,315
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2023,1BR,259
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2023,2BR,285
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2023,3BR,91
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2023,4BR+,28
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,2023,Studio,18
+120,Business Bay,Business Bay,Business Bay,2010,1BR,529
+120,Business Bay,Business Bay,Business Bay,2010,2BR,542
+120,Business Bay,Business Bay,Business Bay,2010,3BR,293
+120,Business Bay,Business Bay,Business Bay,2010,4BR+,63
+120,Business Bay,Business Bay,Business Bay,2010,Non-residential,1290
+120,Business Bay,Business Bay,Business Bay,2010,Penthouse,18
+120,Business Bay,Business Bay,Business Bay,2010,Studio,90
+120,Business Bay,Business Bay,Business Bay,2011,1BR,325
+120,Business Bay,Business Bay,Business Bay,2011,2BR,273
+120,Business Bay,Business Bay,Business Bay,2011,3BR,190
+120,Business Bay,Business Bay,Business Bay,2011,4BR+,58
+120,Business Bay,Business Bay,Business Bay,2011,Non-residential,890
+120,Business Bay,Business Bay,Business Bay,2011,Penthouse,11
+120,Business Bay,Business Bay,Business Bay,2011,Studio,74
+120,Business Bay,Business Bay,Business Bay,2012,1BR,683
+120,Business Bay,Business Bay,Business Bay,2012,2BR,390
+120,Business Bay,Business Bay,Business Bay,2012,3BR,163
+120,Business Bay,Business Bay,Business Bay,2012,4BR+,47
+120,Business Bay,Business Bay,Business Bay,2012,Non-residential,1550
+120,Business Bay,Business Bay,Business Bay,2012,Penthouse,13
+120,Business Bay,Business Bay,Business Bay,2012,Studio,171
+120,Business Bay,Business Bay,Business Bay,2013,1BR,1385
+120,Business Bay,Business Bay,Business Bay,2013,2BR,863
+120,Business Bay,Business Bay,Business Bay,2013,3BR,289
+120,Business Bay,Business Bay,Business Bay,2013,4BR+,51
+120,Business Bay,Business Bay,Business Bay,2013,Non-residential,2191
+120,Business Bay,Business Bay,Business Bay,2013,Penthouse,11
+120,Business Bay,Business Bay,Business Bay,2013,Studio,678
+120,Business Bay,Business Bay,Business Bay,2014,1BR,1283
+120,Business Bay,Business Bay,Business Bay,2014,2BR,625
+120,Business Bay,Business Bay,Business Bay,2014,3BR,287
+120,Business Bay,Business Bay,Business Bay,2014,4BR+,34
+120,Business Bay,Business Bay,Business Bay,2014,Non-residential,2695
+120,Business Bay,Business Bay,Business Bay,2014,Penthouse,29
+120,Business Bay,Business Bay,Business Bay,2014,Studio,860
+120,Business Bay,Business Bay,Business Bay,2015,1BR,606
+120,Business Bay,Business Bay,Business Bay,2015,2BR,342
+120,Business Bay,Business Bay,Business Bay,2015,3BR,109
+120,Business Bay,Business Bay,Business Bay,2015,4BR+,18
+120,Business Bay,Business Bay,Business Bay,2015,Non-residential,1143
+120,Business Bay,Business Bay,Business Bay,2015,Penthouse,7
+120,Business Bay,Business Bay,Business Bay,2015,Studio,1041
+120,Business Bay,Business Bay,Business Bay,2016,1BR,685
+120,Business Bay,Business Bay,Business Bay,2016,2BR,309
+120,Business Bay,Business Bay,Business Bay,2016,3BR,111
+120,Business Bay,Business Bay,Business Bay,2016,4BR+,25
+120,Business Bay,Business Bay,Business Bay,2016,Non-residential,675
+120,Business Bay,Business Bay,Business Bay,2016,Penthouse,8
+120,Business Bay,Business Bay,Business Bay,2016,Studio,837
+120,Business Bay,Business Bay,Business Bay,2017,1BR,759
+120,Business Bay,Business Bay,Business Bay,2017,2BR,452
+120,Business Bay,Business Bay,Business Bay,2017,3BR,127
+120,Business Bay,Business Bay,Business Bay,2017,4BR+,19
+120,Business Bay,Business Bay,Business Bay,2017,Non-residential,727
+120,Business Bay,Business Bay,Business Bay,2017,Penthouse,7
+120,Business Bay,Business Bay,Business Bay,2017,Studio,799
+120,Business Bay,Business Bay,Business Bay,2018,1BR,900
+120,Business Bay,Business Bay,Business Bay,2018,2BR,510
+120,Business Bay,Business Bay,Business Bay,2018,3BR,82
+120,Business Bay,Business Bay,Business Bay,2018,4BR+,8
+120,Business Bay,Business Bay,Business Bay,2018,Non-residential,486
+120,Business Bay,Business Bay,Business Bay,2018,Studio,603
+120,Business Bay,Business Bay,Business Bay,2019,1BR,781
+120,Business Bay,Business Bay,Business Bay,2019,2BR,376
+120,Business Bay,Business Bay,Business Bay,2019,3BR,75
+120,Business Bay,Business Bay,Business Bay,2019,4BR+,16
+120,Business Bay,Business Bay,Business Bay,2019,Non-residential,682
+120,Business Bay,Business Bay,Business Bay,2019,Studio,464
+120,Business Bay,Business Bay,Business Bay,2020,1BR,752
+120,Business Bay,Business Bay,Business Bay,2020,2BR,404
+120,Business Bay,Business Bay,Business Bay,2020,3BR,140
+120,Business Bay,Business Bay,Business Bay,2020,4BR+,22
+120,Business Bay,Business Bay,Business Bay,2020,Non-residential,426
+120,Business Bay,Business Bay,Business Bay,2020,Studio,488
+120,Business Bay,Business Bay,Business Bay,2021,1BR,1675
+120,Business Bay,Business Bay,Business Bay,2021,2BR,1121
+120,Business Bay,Business Bay,Business Bay,2021,3BR,274
+120,Business Bay,Business Bay,Business Bay,2021,4BR+,83
+120,Business Bay,Business Bay,Business Bay,2021,Non-residential,675
+120,Business Bay,Business Bay,Business Bay,2021,Penthouse,5
+120,Business Bay,Business Bay,Business Bay,2021,Studio,948
+120,Business Bay,Business Bay,Business Bay,2022,1BR,4300
+120,Business Bay,Business Bay,Business Bay,2022,2BR,1878
+120,Business Bay,Business Bay,Business Bay,2022,3BR,378
+120,Business Bay,Business Bay,Business Bay,2022,4BR+,55
+120,Business Bay,Business Bay,Business Bay,2022,Non-residential,864
+120,Business Bay,Business Bay,Business Bay,2022,Studio,2407
+120,Business Bay,Business Bay,Business Bay,2023,1BR,654
+120,Business Bay,Business Bay,Business Bay,2023,2BR,327
+120,Business Bay,Business Bay,Business Bay,2023,3BR,60
+120,Business Bay,Business Bay,Business Bay,2023,Non-residential,170
+120,Business Bay,Business Bay,Business Bay,2023,Studio,485
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,1BR,397
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,2BR,226
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,3BR,148
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,4BR+,34
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,Non-residential,25
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2010,Studio,206
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2011,1BR,332
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2011,2BR,63
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2011,3BR,14
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2011,4BR+,8
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2011,Studio,13
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2012,1BR,69
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2012,2BR,13
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2012,Non-residential,7
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2012,Studio,25
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,1BR,235
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,2BR,131
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,3BR,260
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,4BR+,555
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,Non-residential,95
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2013,Studio,35
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,1BR,613
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,2BR,146
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,3BR,103
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,4BR+,144
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,Non-residential,15
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2014,Studio,177
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,1BR,89
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,2BR,28
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,3BR,47
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,4BR+,126
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,Non-residential,6
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2015,Studio,29
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,1BR,206
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,2BR,49
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,3BR,42
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,4BR+,62
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,Non-residential,92
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2016,Studio,88
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,1BR,110
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,2BR,34
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,3BR,39
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,4BR+,36
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,Non-residential,109
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2017,Studio,80
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,1BR,42
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,2BR,8
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,3BR,31
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,4BR+,47
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,Non-residential,22
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2018,Studio,15
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2019,1BR,16
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2019,2BR,15
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2019,3BR,18
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2019,4BR+,49
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2019,Non-residential,26
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2020,1BR,12
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2020,2BR,16
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2020,3BR,170
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2020,4BR+,54
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2020,Non-residential,5
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,1BR,15
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,2BR,24
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,3BR,335
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,4BR+,67
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,Non-residential,16
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2021,Studio,7
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,1BR,29
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,2BR,14
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,3BR,56
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,4BR+,326
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,Non-residential,14
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2022,Studio,5
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2023,1BR,6
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2023,3BR,7
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,2023,4BR+,45
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2011,Studio,42
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2012,1BR,16
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2012,2BR,31
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2012,3BR,13
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2012,Studio,21
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2013,1BR,18
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2013,2BR,86
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2013,3BR,22
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2013,Studio,55
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2014,1BR,131
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2014,2BR,79
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2014,3BR,13
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2014,Studio,143
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2015,1BR,27
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2015,2BR,10
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2015,Studio,56
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2016,1BR,55
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2016,2BR,68
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2016,3BR,10
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2016,Studio,34
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2017,1BR,18
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2017,2BR,75
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2017,Studio,18
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2018,1BR,7
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2018,2BR,18
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2018,Studio,6
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2019,2BR,8
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2019,Studio,8
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2020,1BR,5
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2020,2BR,6
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2021,2BR,15
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2021,Studio,10
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2022,1BR,5
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2022,2BR,13
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2022,Studio,10
+123,Dubai Investment Park Second,Dubai Investment Park 2,Dubai Investment Park 2,2023,1BR,7
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2014,1BR,98
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2014,2BR,218
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2014,3BR,114
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2015,1BR,70
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2015,2BR,110
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2015,3BR,148
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2015,4BR+,255
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2016,1BR,64
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2016,2BR,60
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2016,3BR,281
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2016,4BR+,388
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2017,1BR,359
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2017,2BR,239
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2017,3BR,221
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2017,4BR+,248
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2018,1BR,272
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2018,2BR,214
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2018,3BR,148
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2018,4BR+,134
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2019,1BR,747
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2019,2BR,617
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2019,3BR,124
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2019,4BR+,261
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2019,Studio,9
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2020,1BR,254
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2020,2BR,171
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2020,3BR,180
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2020,4BR+,155
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2020,Studio,168
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2021,1BR,366
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2021,2BR,703
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2021,3BR,645
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2021,4BR+,341
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2021,Studio,240
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2022,1BR,1136
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2022,2BR,1176
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2022,3BR,465
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2022,4BR+,223
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2022,Studio,83
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2023,1BR,153
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2023,2BR,192
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2023,3BR,51
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,2023,4BR+,20
+127,Hessyan First,,Hessyan First,2010,1BR,190
+127,Hessyan First,,Hessyan First,2010,2BR,100
+127,Hessyan First,,Hessyan First,2010,3BR,42
+127,Hessyan First,,Hessyan First,2010,Studio,64
+127,Hessyan First,,Hessyan First,2015,2BR,6
+127,Hessyan First,,Hessyan First,2016,1BR,7
+127,Hessyan First,,Hessyan First,2017,1BR,13
+127,Hessyan First,,Hessyan First,2017,2BR,5
+127,Hessyan First,,Hessyan First,2018,1BR,6
+127,Hessyan First,,Hessyan First,2022,1BR,6
+128,Hessyan Second,,Hessyan Second,2010,1BR,57
+128,Hessyan Second,,Hessyan Second,2010,2BR,32
+128,Hessyan Second,,Hessyan Second,2010,3BR,30
+128,Hessyan Second,,Hessyan Second,2011,1BR,63
+128,Hessyan Second,,Hessyan Second,2011,2BR,49
+128,Hessyan Second,,Hessyan Second,2011,3BR,16
+128,Hessyan Second,,Hessyan Second,2011,Studio,17
+131,Island 2,,Island 2,2017,2BR,13
+131,Island 2,,Island 2,2017,3BR,25
+131,Island 2,,Island 2,2018,1BR,8
+131,Island 2,,Island 2,2018,2BR,14
+131,Island 2,,Island 2,2018,3BR,19
+131,Island 2,,Island 2,2019,1BR,24
+131,Island 2,,Island 2,2019,2BR,20
+131,Island 2,,Island 2,2019,3BR,53
+131,Island 2,,Island 2,2019,4BR+,26
+131,Island 2,,Island 2,2020,1BR,8
+131,Island 2,,Island 2,2020,2BR,14
+131,Island 2,,Island 2,2020,3BR,12
+131,Island 2,,Island 2,2021,1BR,8
+131,Island 2,,Island 2,2021,2BR,10
+131,Island 2,,Island 2,2021,3BR,37
+131,Island 2,,Island 2,2021,4BR+,9
+131,Island 2,,Island 2,2022,1BR,7
+131,Island 2,,Island 2,2022,2BR,14
+131,Island 2,,Island 2,2022,3BR,10
+132,Jabal Ali,,Jabal Ali,2010,1BR,182
+132,Jabal Ali,,Jabal Ali,2010,2BR,48
+132,Jabal Ali,,Jabal Ali,2010,3BR,18
+132,Jabal Ali,,Jabal Ali,2010,Non-residential,11
+132,Jabal Ali,,Jabal Ali,2010,Studio,39
+132,Jabal Ali,,Jabal Ali,2012,1BR,34
+132,Jabal Ali,,Jabal Ali,2012,2BR,7
+132,Jabal Ali,,Jabal Ali,2013,1BR,6
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2010,1BR,440
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2010,Studio,385
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2011,1BR,267
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2011,Studio,293
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2012,1BR,197
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2012,2BR,42
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2012,3BR,39
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2012,Non-residential,10
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2012,Studio,346
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2013,1BR,404
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2013,2BR,126
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2013,3BR,157
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2013,Non-residential,12
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2013,Studio,708
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2014,1BR,350
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2014,2BR,145
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2014,3BR,109
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2014,4BR+,32
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2014,Studio,311
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2015,1BR,303
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2015,2BR,85
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2015,3BR,97
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2015,4BR+,33
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2015,Studio,245
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2016,1BR,607
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2016,2BR,390
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2016,3BR,91
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2016,Studio,943
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2017,1BR,595
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2017,2BR,309
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2017,3BR,81
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2017,Studio,1248
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2018,1BR,275
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2018,2BR,79
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2018,3BR,40
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2018,4BR+,30
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2018,Studio,416
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2019,1BR,257
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2019,2BR,95
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2019,3BR,55
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2019,Studio,274
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2020,1BR,201
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2020,2BR,74
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2020,3BR,45
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2020,4BR+,15
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2020,Studio,160
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2021,1BR,284
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2021,2BR,101
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2021,3BR,111
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2021,4BR+,24
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2021,Studio,318
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,1BR,855
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,2BR,502
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,3BR,159
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,4BR+,93
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,Non-residential,6
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2022,Studio,931
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2023,1BR,107
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2023,2BR,79
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2023,3BR,31
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,2023,Studio,107
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2010,1BR,7
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2012,1BR,17
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2012,2BR,8
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2013,1BR,104
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2013,2BR,19
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2014,1BR,78
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2014,2BR,18
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2014,3BR,7
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2015,1BR,28
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2015,2BR,7
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2016,1BR,37
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2016,2BR,26
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2016,3BR,19
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2016,Non-residential,7
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2017,1BR,36
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2017,2BR,9
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2017,Studio,187
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2018,1BR,14
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2018,Studio,77
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2019,1BR,9
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2019,Studio,17
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2020,1BR,32
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2020,2BR,14
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2020,Studio,40
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2021,1BR,41
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2021,2BR,9
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2021,Studio,68
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2022,1BR,40
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2022,2BR,6
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2022,Studio,120
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2023,1BR,6
+135,Jabal Ali Industrial Second,,Jabal Ali Industrial Second,2023,Studio,9
+136,Jabal Ali Industrial Third,,Jabal Ali Industrial Third,2010,1BR,42
+136,Jabal Ali Industrial Third,,Jabal Ali Industrial Third,2010,2BR,8
+136,Jabal Ali Industrial Third,,Jabal Ali Industrial Third,2010,Studio,68
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2017,3BR,9
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2018,1BR,5
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2018,2BR,7
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2018,3BR,5
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2019,1BR,300
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2019,2BR,255
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2019,3BR,76
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2019,4BR+,75
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2020,1BR,74
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2020,2BR,87
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2020,3BR,49
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2020,4BR+,45
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2021,1BR,192
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2021,2BR,187
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2021,3BR,67
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2021,4BR+,43
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2022,1BR,281
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2022,2BR,245
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2022,3BR,71
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2022,4BR+,30
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2023,1BR,27
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2023,2BR,16
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,2023,3BR,5
+139,Jumeirah Second,,Jumeirah Second,2021,3BR,8
+139,Jumeirah Second,,Jumeirah Second,2022,3BR,21
+139,Jumeirah Second,,Jumeirah Second,2022,4BR+,17
+144,Madinat Al Mataar,Dubai South,Dubai South,2013,1BR,11
+144,Madinat Al Mataar,Dubai South,Dubai South,2014,1BR,69
+144,Madinat Al Mataar,Dubai South,Dubai South,2014,2BR,12
+144,Madinat Al Mataar,Dubai South,Dubai South,2014,Studio,469
+144,Madinat Al Mataar,Dubai South,Dubai South,2015,1BR,12
+144,Madinat Al Mataar,Dubai South,Dubai South,2015,Studio,37
+144,Madinat Al Mataar,Dubai South,Dubai South,2016,1BR,131
+144,Madinat Al Mataar,Dubai South,Dubai South,2016,2BR,23
+144,Madinat Al Mataar,Dubai South,Dubai South,2016,Studio,38
+144,Madinat Al Mataar,Dubai South,Dubai South,2017,1BR,584
+144,Madinat Al Mataar,Dubai South,Dubai South,2017,2BR,833
+144,Madinat Al Mataar,Dubai South,Dubai South,2017,3BR,217
+144,Madinat Al Mataar,Dubai South,Dubai South,2017,Studio,201
+144,Madinat Al Mataar,Dubai South,Dubai South,2018,1BR,258
+144,Madinat Al Mataar,Dubai South,Dubai South,2018,2BR,142
+144,Madinat Al Mataar,Dubai South,Dubai South,2018,3BR,12
+144,Madinat Al Mataar,Dubai South,Dubai South,2018,Studio,187
+144,Madinat Al Mataar,Dubai South,Dubai South,2019,1BR,324
+144,Madinat Al Mataar,Dubai South,Dubai South,2019,2BR,185
+144,Madinat Al Mataar,Dubai South,Dubai South,2019,3BR,859
+144,Madinat Al Mataar,Dubai South,Dubai South,2019,4BR+,337
+144,Madinat Al Mataar,Dubai South,Dubai South,2019,Studio,188
+144,Madinat Al Mataar,Dubai South,Dubai South,2020,1BR,64
+144,Madinat Al Mataar,Dubai South,Dubai South,2020,2BR,94
+144,Madinat Al Mataar,Dubai South,Dubai South,2020,3BR,331
+144,Madinat Al Mataar,Dubai South,Dubai South,2020,4BR+,117
+144,Madinat Al Mataar,Dubai South,Dubai South,2020,Studio,56
+144,Madinat Al Mataar,Dubai South,Dubai South,2021,1BR,61
+144,Madinat Al Mataar,Dubai South,Dubai South,2021,2BR,208
+144,Madinat Al Mataar,Dubai South,Dubai South,2021,3BR,275
+144,Madinat Al Mataar,Dubai South,Dubai South,2021,4BR+,86
+144,Madinat Al Mataar,Dubai South,Dubai South,2021,Studio,47
+144,Madinat Al Mataar,Dubai South,Dubai South,2022,1BR,112
+144,Madinat Al Mataar,Dubai South,Dubai South,2022,2BR,229
+144,Madinat Al Mataar,Dubai South,Dubai South,2022,3BR,674
+144,Madinat Al Mataar,Dubai South,Dubai South,2022,4BR+,810
+144,Madinat Al Mataar,Dubai South,Dubai South,2022,Studio,129
+144,Madinat Al Mataar,Dubai South,Dubai South,2023,1BR,22
+144,Madinat Al Mataar,Dubai South,Dubai South,2023,2BR,36
+144,Madinat Al Mataar,Dubai South,Dubai South,2023,3BR,42
+144,Madinat Al Mataar,Dubai South,Dubai South,2023,4BR+,14
+144,Madinat Al Mataar,Dubai South,Dubai South,2023,Studio,22
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2015,1BR,53
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2015,2BR,35
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2015,Studio,18
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2016,1BR,7
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2016,2BR,7
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2019,1BR,12
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2019,2BR,17
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2020,2BR,5
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2022,1BR,61
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2022,2BR,180
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2022,3BR,59
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2022,Studio,6
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2023,1BR,96
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2023,2BR,70
+145,Madinat Dubai Almelaheyah,,Madinat Dubai Almelaheyah,2023,3BR,25
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,1BR,2503
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,2BR,1940
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,3BR,828
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,4BR+,182
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,Non-residential,147
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,Penthouse,40
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2010,Studio,400
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,1BR,1982
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,2BR,1776
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,3BR,758
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,4BR+,161
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,Non-residential,177
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,Penthouse,28
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2011,Studio,202
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,1BR,2557
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,2BR,2283
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,3BR,1058
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,4BR+,280
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,Non-residential,47
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,Penthouse,62
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2012,Studio,354
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,1BR,3188
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,2BR,2538
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,3BR,1138
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,4BR+,231
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,Non-residential,43
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,Penthouse,107
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2013,Studio,444
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,1BR,2109
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,2BR,1720
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,3BR,659
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,4BR+,129
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,Non-residential,86
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,Penthouse,42
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2014,Studio,312
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,1BR,1274
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,2BR,873
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,3BR,397
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,4BR+,92
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,Non-residential,46
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,Penthouse,21
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2015,Studio,254
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,1BR,1064
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,2BR,1020
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,3BR,388
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,4BR+,52
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,Non-residential,28
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,Penthouse,23
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2016,Studio,184
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,1BR,1237
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,2BR,937
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,3BR,354
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,4BR+,69
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,Non-residential,37
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,Penthouse,12
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2017,Studio,356
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,1BR,829
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,2BR,874
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,3BR,355
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,4BR+,68
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,Non-residential,17
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,Penthouse,13
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2018,Studio,171
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,1BR,1138
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,2BR,1186
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,3BR,514
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,4BR+,132
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,Non-residential,38
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,Penthouse,7
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2019,Studio,146
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,1BR,890
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,2BR,861
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,3BR,511
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,4BR+,99
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,Non-residential,18
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,Penthouse,10
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2020,Studio,316
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,1BR,2023
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,2BR,2246
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,3BR,1098
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,4BR+,243
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,Non-residential,41
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,Penthouse,27
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2021,Studio,237
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,1BR,2693
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,2BR,2484
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,3BR,1161
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,4BR+,280
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,Non-residential,94
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,Penthouse,22
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2022,Studio,406
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,1BR,446
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,2BR,376
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,3BR,197
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,4BR+,48
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,Non-residential,6
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,Penthouse,7
+148,Marsa Dubai,Dubai Marina,Dubai Marina,2023,Studio,106
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2010,1BR,100
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2010,2BR,97
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2010,Studio,323
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2011,1BR,24
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2011,2BR,138
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2011,Studio,337
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2012,1BR,35
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2012,2BR,125
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2012,Non-residential,24
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2012,Studio,400
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2013,1BR,277
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2013,2BR,159
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2013,3BR,5
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2013,Non-residential,18
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2013,Studio,752
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2014,1BR,347
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2014,2BR,78
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2014,3BR,17
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2014,Non-residential,9
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2014,Studio,641
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2015,1BR,228
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2015,2BR,125
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2015,3BR,33
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2015,Studio,340
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2016,1BR,317
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2016,2BR,126
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2016,3BR,17
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2016,Non-residential,8
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2016,Studio,396
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2017,1BR,186
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2017,2BR,181
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2017,3BR,48
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2017,4BR+,13
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2017,Studio,297
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2018,1BR,125
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2018,2BR,116
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2018,3BR,41
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2018,4BR+,27
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2018,Studio,142
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2019,1BR,122
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2019,2BR,103
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2019,3BR,22
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2019,4BR+,19
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2019,Studio,169
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2020,1BR,68
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2020,2BR,67
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2020,3BR,9
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2020,4BR+,7
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2020,Studio,108
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2021,1BR,304
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2021,2BR,182
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2021,3BR,73
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2021,4BR+,78
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2021,Studio,192
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2022,1BR,393
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2022,2BR,225
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2022,3BR,36
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2022,4BR+,14
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2022,Studio,292
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2023,1BR,59
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2023,2BR,25
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2023,3BR,12
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2023,4BR+,26
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),2023,Studio,58
+151,Mirdif,Mirdif,Mirdif,2014,1BR,106
+151,Mirdif,Mirdif,Mirdif,2014,2BR,168
+151,Mirdif,Mirdif,Mirdif,2014,3BR,84
+151,Mirdif,Mirdif,Mirdif,2014,Studio,52
+151,Mirdif,Mirdif,Mirdif,2015,1BR,43
+151,Mirdif,Mirdif,Mirdif,2015,2BR,45
+151,Mirdif,Mirdif,Mirdif,2015,3BR,66
+151,Mirdif,Mirdif,Mirdif,2015,Studio,62
+151,Mirdif,Mirdif,Mirdif,2016,1BR,16
+151,Mirdif,Mirdif,Mirdif,2016,2BR,14
+151,Mirdif,Mirdif,Mirdif,2016,Studio,11
+151,Mirdif,Mirdif,Mirdif,2017,1BR,11
+151,Mirdif,Mirdif,Mirdif,2017,2BR,23
+151,Mirdif,Mirdif,Mirdif,2017,3BR,10
+151,Mirdif,Mirdif,Mirdif,2017,Studio,6
+151,Mirdif,Mirdif,Mirdif,2018,1BR,6
+151,Mirdif,Mirdif,Mirdif,2018,2BR,23
+151,Mirdif,Mirdif,Mirdif,2018,3BR,18
+151,Mirdif,Mirdif,Mirdif,2019,2BR,13
+151,Mirdif,Mirdif,Mirdif,2019,3BR,12
+151,Mirdif,Mirdif,Mirdif,2020,1BR,5
+151,Mirdif,Mirdif,Mirdif,2020,2BR,17
+151,Mirdif,Mirdif,Mirdif,2020,3BR,8
+151,Mirdif,Mirdif,Mirdif,2020,Studio,20
+151,Mirdif,Mirdif,Mirdif,2021,1BR,9
+151,Mirdif,Mirdif,Mirdif,2021,2BR,21
+151,Mirdif,Mirdif,Mirdif,2021,3BR,22
+151,Mirdif,Mirdif,Mirdif,2021,4BR+,5
+151,Mirdif,Mirdif,Mirdif,2021,Studio,26
+151,Mirdif,Mirdif,Mirdif,2022,1BR,68
+151,Mirdif,Mirdif,Mirdif,2022,2BR,106
+151,Mirdif,Mirdif,Mirdif,2022,3BR,121
+151,Mirdif,Mirdif,Mirdif,2022,4BR+,55
+151,Mirdif,Mirdif,Mirdif,2022,Studio,47
+151,Mirdif,Mirdif,Mirdif,2023,1BR,9
+151,Mirdif,Mirdif,Mirdif,2023,2BR,36
+151,Mirdif,Mirdif,Mirdif,2023,3BR,28
+151,Mirdif,Mirdif,Mirdif,2023,4BR+,17
+152,Muhaisanah First,,Muhaisanah First,2020,1BR,12
+152,Muhaisanah First,,Muhaisanah First,2020,2BR,13
+152,Muhaisanah First,,Muhaisanah First,2020,3BR,12
+152,Muhaisanah First,,Muhaisanah First,2021,1BR,93
+152,Muhaisanah First,,Muhaisanah First,2021,2BR,74
+152,Muhaisanah First,,Muhaisanah First,2021,3BR,36
+152,Muhaisanah First,,Muhaisanah First,2022,1BR,140
+152,Muhaisanah First,,Muhaisanah First,2022,2BR,168
+152,Muhaisanah First,,Muhaisanah First,2022,3BR,45
+152,Muhaisanah First,,Muhaisanah First,2023,1BR,8
+152,Muhaisanah First,,Muhaisanah First,2023,2BR,25
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2014,1BR,177
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2014,2BR,113
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2014,3BR,11
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2015,1BR,51
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2015,2BR,50
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2016,1BR,45
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2016,2BR,35
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2016,3BR,6
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2016,4BR+,165
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2017,1BR,122
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2017,2BR,114
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2017,3BR,11
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2017,4BR+,19
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2018,1BR,77
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2018,2BR,78
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2018,3BR,5
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2019,1BR,62
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2019,2BR,59
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2019,4BR+,9
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2020,1BR,56
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2020,2BR,74
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2020,3BR,5
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2020,4BR+,61
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2021,1BR,112
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2021,2BR,44
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2021,4BR+,83
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2022,1BR,88
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2022,2BR,68
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2022,3BR,9
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2022,4BR+,86
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2023,1BR,16
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2023,3BR,118
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,2023,4BR+,5
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2010,1BR,337
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2010,2BR,185
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2010,Non-residential,241
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2010,Studio,289
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2011,1BR,332
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2011,2BR,112
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2011,3BR,7
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2011,Non-residential,83
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2011,Studio,199
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2012,1BR,525
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2012,2BR,111
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2012,3BR,10
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2012,Non-residential,117
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2012,Studio,286
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2013,1BR,767
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2013,2BR,424
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2013,3BR,32
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2013,Non-residential,232
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2013,Studio,407
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2014,1BR,878
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2014,2BR,250
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2014,3BR,37
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2014,Non-residential,100
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2014,Studio,508
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2015,1BR,1089
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2015,2BR,201
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2015,3BR,13
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2015,Non-residential,66
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2015,Studio,277
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2016,1BR,987
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2016,2BR,227
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2016,3BR,36
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2016,Non-residential,69
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2016,Studio,531
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2017,1BR,644
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2017,2BR,130
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2017,3BR,40
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2017,Non-residential,41
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2017,Studio,292
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2018,1BR,452
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2018,2BR,102
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2018,3BR,17
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2018,Non-residential,108
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2018,Studio,322
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2019,1BR,294
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2019,2BR,69
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2019,3BR,11
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2019,Non-residential,47
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2019,Studio,220
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2020,1BR,233
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2020,2BR,76
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2020,3BR,8
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2020,Non-residential,22
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2020,Studio,175
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2021,1BR,287
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2021,2BR,141
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2021,3BR,23
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2021,Non-residential,45
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2021,Studio,150
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2022,1BR,454
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2022,2BR,170
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2022,3BR,44
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2022,Non-residential,52
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2022,Studio,204
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2023,1BR,114
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2023,2BR,47
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2023,3BR,13
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2023,Non-residential,11
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,2023,Studio,111
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2010,1BR,184
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2010,2BR,572
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2010,3BR,334
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2010,4BR+,25
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2010,Penthouse,20
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2011,1BR,295
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2011,2BR,621
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2011,3BR,419
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2011,4BR+,48
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2011,Penthouse,9
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2012,1BR,268
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2012,2BR,594
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2012,3BR,325
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2012,4BR+,65
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2012,Penthouse,27
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,1BR,504
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,2BR,793
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,3BR,394
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,4BR+,75
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,Penthouse,31
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2013,Studio,351
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,1BR,349
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,2BR,492
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,3BR,192
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,4BR+,27
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,Penthouse,13
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2014,Studio,211
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,1BR,296
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,2BR,340
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,3BR,166
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,4BR+,27
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,Penthouse,7
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2015,Studio,436
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,1BR,199
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,2BR,287
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,3BR,124
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,4BR+,28
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,Penthouse,11
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2016,Studio,122
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,1BR,261
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,2BR,307
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,3BR,115
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,4BR+,32
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,Penthouse,6
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2017,Studio,135
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,1BR,210
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,2BR,225
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,3BR,106
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,4BR+,21
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,Penthouse,18
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2018,Studio,269
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2019,1BR,208
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2019,2BR,275
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2019,3BR,118
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2019,4BR+,24
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2019,Studio,116
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,1BR,201
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,2BR,218
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,3BR,113
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,4BR+,27
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,Penthouse,5
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2020,Studio,374
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,1BR,494
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,2BR,473
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,3BR,316
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,4BR+,124
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,Penthouse,12
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2021,Studio,231
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,1BR,784
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,2BR,1045
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,3BR,572
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,4BR+,156
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,Penthouse,13
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2022,Studio,346
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2023,1BR,158
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2023,2BR,124
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2023,3BR,72
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2023,4BR+,22
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,2023,Studio,53
+175,Port Saeed,,Port Saeed,2012,Non-residential,190
+175,Port Saeed,,Port Saeed,2014,Non-residential,84
+175,Port Saeed,,Port Saeed,2015,Non-residential,52
+175,Port Saeed,,Port Saeed,2016,Non-residential,19
+175,Port Saeed,,Port Saeed,2017,Non-residential,17
+175,Port Saeed,,Port Saeed,2018,Non-residential,7
+175,Port Saeed,,Port Saeed,2019,Non-residential,6
+175,Port Saeed,,Port Saeed,2021,Non-residential,17
+175,Port Saeed,,Port Saeed,2022,Non-residential,6
+180,Rega Al Buteen,,Rega Al Buteen,2010,1BR,14
+180,Rega Al Buteen,,Rega Al Buteen,2010,2BR,38
+180,Rega Al Buteen,,Rega Al Buteen,2010,3BR,23
+180,Rega Al Buteen,,Rega Al Buteen,2011,2BR,10
+180,Rega Al Buteen,,Rega Al Buteen,2011,3BR,7
+180,Rega Al Buteen,,Rega Al Buteen,2012,2BR,8
+180,Rega Al Buteen,,Rega Al Buteen,2013,2BR,12
+180,Rega Al Buteen,,Rega Al Buteen,2014,2BR,10
+180,Rega Al Buteen,,Rega Al Buteen,2015,2BR,10
+180,Rega Al Buteen,,Rega Al Buteen,2016,2BR,8
+180,Rega Al Buteen,,Rega Al Buteen,2018,3BR,5
+180,Rega Al Buteen,,Rega Al Buteen,2022,1BR,6
+180,Rega Al Buteen,,Rega Al Buteen,2022,2BR,6
+183,Saih Shuaib 2,,Saih Shuaib 2,2012,3BR,19
+183,Saih Shuaib 2,,Saih Shuaib 2,2013,3BR,53
+183,Saih Shuaib 2,,Saih Shuaib 2,2014,3BR,8
+183,Saih Shuaib 2,,Saih Shuaib 2,2015,3BR,34
+183,Saih Shuaib 2,,Saih Shuaib 2,2016,2BR,17
+183,Saih Shuaib 2,,Saih Shuaib 2,2017,1BR,5
+183,Saih Shuaib 2,,Saih Shuaib 2,2017,2BR,14
+183,Saih Shuaib 2,,Saih Shuaib 2,2018,1BR,17
+183,Saih Shuaib 2,,Saih Shuaib 2,2018,2BR,21
+183,Saih Shuaib 2,,Saih Shuaib 2,2018,Studio,32
+183,Saih Shuaib 2,,Saih Shuaib 2,2019,1BR,24
+183,Saih Shuaib 2,,Saih Shuaib 2,2019,3BR,8
+183,Saih Shuaib 2,,Saih Shuaib 2,2020,1BR,25
+183,Saih Shuaib 2,,Saih Shuaib 2,2020,2BR,8
+183,Saih Shuaib 2,,Saih Shuaib 2,2021,1BR,7
+183,Saih Shuaib 2,,Saih Shuaib 2,2022,3BR,8
+187,Trade Center First,,Trade Center First,2013,Non-residential,10
+187,Trade Center First,,Trade Center First,2014,Non-residential,43
+187,Trade Center First,,Trade Center First,2015,Non-residential,57
+187,Trade Center First,,Trade Center First,2016,Non-residential,31
+187,Trade Center First,,Trade Center First,2017,Non-residential,24
+187,Trade Center First,,Trade Center First,2018,Non-residential,12
+187,Trade Center First,,Trade Center First,2019,Non-residential,7
+187,Trade Center First,,Trade Center First,2020,Non-residential,5
+187,Trade Center First,,Trade Center First,2021,Non-residential,13
+187,Trade Center First,,Trade Center First,2022,Non-residential,14
+188,Trade Center Second,,Trade Center Second,2010,2BR,10
+188,Trade Center Second,,Trade Center Second,2010,3BR,6
+188,Trade Center Second,,Trade Center Second,2010,4BR+,5
+188,Trade Center Second,,Trade Center Second,2011,2BR,40
+188,Trade Center Second,,Trade Center Second,2011,3BR,12
+188,Trade Center Second,,Trade Center Second,2012,2BR,11
+188,Trade Center Second,,Trade Center Second,2012,3BR,9
+188,Trade Center Second,,Trade Center Second,2012,4BR+,8
+188,Trade Center Second,,Trade Center Second,2013,1BR,9
+188,Trade Center Second,,Trade Center Second,2013,2BR,30
+188,Trade Center Second,,Trade Center Second,2013,3BR,17
+188,Trade Center Second,,Trade Center Second,2013,4BR+,8
+188,Trade Center Second,,Trade Center Second,2014,2BR,13
+188,Trade Center Second,,Trade Center Second,2014,3BR,7
+188,Trade Center Second,,Trade Center Second,2015,2BR,13
+188,Trade Center Second,,Trade Center Second,2016,2BR,13
+188,Trade Center Second,,Trade Center Second,2016,3BR,11
+188,Trade Center Second,,Trade Center Second,2016,4BR+,8
+188,Trade Center Second,,Trade Center Second,2017,2BR,7
+188,Trade Center Second,,Trade Center Second,2021,2BR,6
+188,Trade Center Second,,Trade Center Second,2022,2BR,14
+188,Trade Center Second,,Trade Center Second,2022,3BR,6
+188,Trade Center Second,,Trade Center Second,2023,2BR,5
+191,Um Hurair Second,,Um Hurair Second,2015,1BR,28
+191,Um Hurair Second,,Um Hurair Second,2015,2BR,13
+191,Um Hurair Second,,Um Hurair Second,2015,Studio,41
+191,Um Hurair Second,,Um Hurair Second,2016,1BR,7
+191,Um Hurair Second,,Um Hurair Second,2016,Studio,16
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2019,1BR,114
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2019,2BR,64
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2019,3BR,26
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2019,4BR+,16
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2020,1BR,98
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2020,2BR,59
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2020,3BR,17
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2020,4BR+,6
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2021,1BR,173
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2021,2BR,132
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2021,3BR,22
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2021,4BR+,18
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2022,1BR,495
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2022,2BR,339
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2022,3BR,95
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2022,4BR+,10
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2023,1BR,108
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2023,2BR,84
+198,Um Suqaim Third,Umm Suqeim 3,Umm Suqeim 3,2023,3BR,28
+200,Wadi Al Safa 2,Dubailand,Dubailand,2012,1BR,44
+200,Wadi Al Safa 2,Dubailand,Dubailand,2012,2BR,19
+200,Wadi Al Safa 2,Dubailand,Dubailand,2012,3BR,9
+200,Wadi Al Safa 2,Dubailand,Dubailand,2013,1BR,28
+200,Wadi Al Safa 2,Dubailand,Dubailand,2013,2BR,25
+200,Wadi Al Safa 2,Dubailand,Dubailand,2013,3BR,18
+200,Wadi Al Safa 2,Dubailand,Dubailand,2014,1BR,353
+200,Wadi Al Safa 2,Dubailand,Dubailand,2014,2BR,157
+200,Wadi Al Safa 2,Dubailand,Dubailand,2014,3BR,41
+200,Wadi Al Safa 2,Dubailand,Dubailand,2015,1BR,592
+200,Wadi Al Safa 2,Dubailand,Dubailand,2015,2BR,280
+200,Wadi Al Safa 2,Dubailand,Dubailand,2015,3BR,58
+200,Wadi Al Safa 2,Dubailand,Dubailand,2016,1BR,387
+200,Wadi Al Safa 2,Dubailand,Dubailand,2016,2BR,153
+200,Wadi Al Safa 2,Dubailand,Dubailand,2016,3BR,45
+200,Wadi Al Safa 2,Dubailand,Dubailand,2016,Studio,30
+200,Wadi Al Safa 2,Dubailand,Dubailand,2017,1BR,355
+200,Wadi Al Safa 2,Dubailand,Dubailand,2017,2BR,153
+200,Wadi Al Safa 2,Dubailand,Dubailand,2017,3BR,33
+200,Wadi Al Safa 2,Dubailand,Dubailand,2017,Studio,20
+200,Wadi Al Safa 2,Dubailand,Dubailand,2018,1BR,131
+200,Wadi Al Safa 2,Dubailand,Dubailand,2018,2BR,70
+200,Wadi Al Safa 2,Dubailand,Dubailand,2018,3BR,14
+200,Wadi Al Safa 2,Dubailand,Dubailand,2018,Studio,5
+200,Wadi Al Safa 2,Dubailand,Dubailand,2019,1BR,331
+200,Wadi Al Safa 2,Dubailand,Dubailand,2019,2BR,112
+200,Wadi Al Safa 2,Dubailand,Dubailand,2019,3BR,7
+200,Wadi Al Safa 2,Dubailand,Dubailand,2019,Studio,210
+200,Wadi Al Safa 2,Dubailand,Dubailand,2020,1BR,119
+200,Wadi Al Safa 2,Dubailand,Dubailand,2020,2BR,55
+200,Wadi Al Safa 2,Dubailand,Dubailand,2020,3BR,11
+200,Wadi Al Safa 2,Dubailand,Dubailand,2020,Studio,211
+200,Wadi Al Safa 2,Dubailand,Dubailand,2021,1BR,142
+200,Wadi Al Safa 2,Dubailand,Dubailand,2021,2BR,52
+200,Wadi Al Safa 2,Dubailand,Dubailand,2021,3BR,15
+200,Wadi Al Safa 2,Dubailand,Dubailand,2021,Studio,77
+200,Wadi Al Safa 2,Dubailand,Dubailand,2022,1BR,121
+200,Wadi Al Safa 2,Dubailand,Dubailand,2022,2BR,62
+200,Wadi Al Safa 2,Dubailand,Dubailand,2022,3BR,13
+200,Wadi Al Safa 2,Dubailand,Dubailand,2023,1BR,19
+200,Wadi Al Safa 2,Dubailand,Dubailand,2023,2BR,10
+200,Wadi Al Safa 2,Dubailand,Dubailand,2023,Non-residential,10
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2010,1BR,210
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2010,2BR,303
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2010,3BR,163
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2010,4BR+,16
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2010,Studio,132
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2012,1BR,6
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2012,2BR,7
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2013,1BR,24
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2013,2BR,19
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2013,3BR,19
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2013,Studio,19
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2014,1BR,80
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2014,2BR,40
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2014,3BR,35
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2014,Studio,168
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2015,1BR,85
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2015,2BR,107
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2015,3BR,57
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2015,Studio,78
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2016,1BR,31
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2016,2BR,35
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2016,3BR,25
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2016,Studio,38
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2017,1BR,68
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2017,2BR,54
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2017,3BR,68
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2017,4BR+,150
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2017,Studio,26
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2018,1BR,28
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2018,2BR,39
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2018,3BR,16
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2018,4BR+,8
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2018,Studio,11
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2019,1BR,29
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2019,2BR,40
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2019,3BR,25
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2019,Studio,21
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2020,1BR,97
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2020,2BR,64
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2020,3BR,38
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2020,Studio,9
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2021,1BR,128
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2021,2BR,154
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2021,3BR,30
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2021,Studio,58
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,1BR,113
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,2BR,97
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,3BR,31
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,4BR+,410
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,Non-residential,17
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2022,Studio,28
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2023,1BR,20
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2023,2BR,32
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2023,3BR,68
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,2023,4BR+,177
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2010,1BR,8
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2010,2BR,16
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2010,3BR,21
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2011,2BR,16
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2011,3BR,32
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2012,1BR,11
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2012,2BR,17
+202,Wadi Al Safa 4,,Wadi Al Safa 4,2012,3BR,28
+203,Wadi Al Safa 5,Liwan,Liwan,2010,1BR,75
+203,Wadi Al Safa 5,Liwan,Liwan,2010,2BR,29
+203,Wadi Al Safa 5,Liwan,Liwan,2010,Studio,28
+203,Wadi Al Safa 5,Liwan,Liwan,2011,1BR,208
+203,Wadi Al Safa 5,Liwan,Liwan,2011,2BR,209
+203,Wadi Al Safa 5,Liwan,Liwan,2011,Studio,131
+203,Wadi Al Safa 5,Liwan,Liwan,2012,1BR,282
+203,Wadi Al Safa 5,Liwan,Liwan,2012,2BR,289
+203,Wadi Al Safa 5,Liwan,Liwan,2012,Studio,169
+203,Wadi Al Safa 5,Liwan,Liwan,2013,1BR,171
+203,Wadi Al Safa 5,Liwan,Liwan,2013,2BR,169
+203,Wadi Al Safa 5,Liwan,Liwan,2013,Studio,179
+203,Wadi Al Safa 5,Liwan,Liwan,2014,1BR,155
+203,Wadi Al Safa 5,Liwan,Liwan,2014,2BR,164
+203,Wadi Al Safa 5,Liwan,Liwan,2014,Non-residential,7
+203,Wadi Al Safa 5,Liwan,Liwan,2014,Studio,165
+203,Wadi Al Safa 5,Liwan,Liwan,2015,1BR,101
+203,Wadi Al Safa 5,Liwan,Liwan,2015,2BR,81
+203,Wadi Al Safa 5,Liwan,Liwan,2015,Studio,170
+203,Wadi Al Safa 5,Liwan,Liwan,2016,1BR,111
+203,Wadi Al Safa 5,Liwan,Liwan,2016,2BR,93
+203,Wadi Al Safa 5,Liwan,Liwan,2016,Studio,152
+203,Wadi Al Safa 5,Liwan,Liwan,2017,1BR,55
+203,Wadi Al Safa 5,Liwan,Liwan,2017,2BR,71
+203,Wadi Al Safa 5,Liwan,Liwan,2017,3BR,38
+203,Wadi Al Safa 5,Liwan,Liwan,2017,4BR+,16
+203,Wadi Al Safa 5,Liwan,Liwan,2017,Studio,64
+203,Wadi Al Safa 5,Liwan,Liwan,2018,1BR,69
+203,Wadi Al Safa 5,Liwan,Liwan,2018,2BR,97
+203,Wadi Al Safa 5,Liwan,Liwan,2018,3BR,231
+203,Wadi Al Safa 5,Liwan,Liwan,2018,4BR+,119
+203,Wadi Al Safa 5,Liwan,Liwan,2018,Studio,87
+203,Wadi Al Safa 5,Liwan,Liwan,2019,1BR,35
+203,Wadi Al Safa 5,Liwan,Liwan,2019,2BR,175
+203,Wadi Al Safa 5,Liwan,Liwan,2019,3BR,987
+203,Wadi Al Safa 5,Liwan,Liwan,2019,4BR+,519
+203,Wadi Al Safa 5,Liwan,Liwan,2019,Studio,43
+203,Wadi Al Safa 5,Liwan,Liwan,2020,1BR,142
+203,Wadi Al Safa 5,Liwan,Liwan,2020,2BR,158
+203,Wadi Al Safa 5,Liwan,Liwan,2020,3BR,418
+203,Wadi Al Safa 5,Liwan,Liwan,2020,4BR+,260
+203,Wadi Al Safa 5,Liwan,Liwan,2020,Studio,189
+203,Wadi Al Safa 5,Liwan,Liwan,2021,1BR,134
+203,Wadi Al Safa 5,Liwan,Liwan,2021,2BR,159
+203,Wadi Al Safa 5,Liwan,Liwan,2021,3BR,1178
+203,Wadi Al Safa 5,Liwan,Liwan,2021,4BR+,768
+203,Wadi Al Safa 5,Liwan,Liwan,2021,Studio,169
+203,Wadi Al Safa 5,Liwan,Liwan,2022,1BR,245
+203,Wadi Al Safa 5,Liwan,Liwan,2022,2BR,245
+203,Wadi Al Safa 5,Liwan,Liwan,2022,3BR,1151
+203,Wadi Al Safa 5,Liwan,Liwan,2022,4BR+,686
+203,Wadi Al Safa 5,Liwan,Liwan,2022,Studio,316
+203,Wadi Al Safa 5,Liwan,Liwan,2023,1BR,36
+203,Wadi Al Safa 5,Liwan,Liwan,2023,2BR,44
+203,Wadi Al Safa 5,Liwan,Liwan,2023,3BR,324
+203,Wadi Al Safa 5,Liwan,Liwan,2023,4BR+,219
+203,Wadi Al Safa 5,Liwan,Liwan,2023,Studio,83
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2010,2BR,96
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2010,3BR,172
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2010,4BR+,140
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2011,2BR,58
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2011,3BR,119
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2011,4BR+,116
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2012,2BR,58
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2012,3BR,74
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2012,4BR+,134
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2013,2BR,104
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2013,3BR,113
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2013,4BR+,148
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2014,2BR,66
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2014,3BR,98
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2014,4BR+,66
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2015,2BR,36
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2015,3BR,53
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2015,4BR+,79
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2016,2BR,25
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2016,3BR,37
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2016,4BR+,62
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2017,2BR,25
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2017,3BR,36
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2017,4BR+,62
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2018,2BR,27
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2018,3BR,31
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2018,4BR+,70
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2019,2BR,18
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2019,3BR,39
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2019,4BR+,45
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2020,2BR,19
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2020,3BR,29
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2020,4BR+,59
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2021,2BR,48
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2021,3BR,52
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2021,4BR+,80
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2022,2BR,45
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2022,3BR,62
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2022,4BR+,86
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2023,3BR,9
+204,Wadi Al Safa 6,Arabian Ranches,Arabian Ranches,2023,4BR+,9
+205,Wadi Al Safa 7,Mudon,Mudon,2010,3BR,78
+205,Wadi Al Safa 7,Mudon,Mudon,2010,4BR+,18
+205,Wadi Al Safa 7,Mudon,Mudon,2011,2BR,92
+205,Wadi Al Safa 7,Mudon,Mudon,2012,2BR,21
+205,Wadi Al Safa 7,Mudon,Mudon,2012,3BR,11
+205,Wadi Al Safa 7,Mudon,Mudon,2012,4BR+,37
+205,Wadi Al Safa 7,Mudon,Mudon,2013,2BR,45
+205,Wadi Al Safa 7,Mudon,Mudon,2014,2BR,9
+205,Wadi Al Safa 7,Mudon,Mudon,2015,3BR,43
+205,Wadi Al Safa 7,Mudon,Mudon,2015,4BR+,42
+205,Wadi Al Safa 7,Mudon,Mudon,2016,2BR,8
+205,Wadi Al Safa 7,Mudon,Mudon,2016,3BR,23
+205,Wadi Al Safa 7,Mudon,Mudon,2016,4BR+,48
+205,Wadi Al Safa 7,Mudon,Mudon,2017,2BR,307
+205,Wadi Al Safa 7,Mudon,Mudon,2017,3BR,558
+205,Wadi Al Safa 7,Mudon,Mudon,2017,4BR+,47
+205,Wadi Al Safa 7,Mudon,Mudon,2018,2BR,29
+205,Wadi Al Safa 7,Mudon,Mudon,2018,3BR,98
+205,Wadi Al Safa 7,Mudon,Mudon,2018,4BR+,19
+205,Wadi Al Safa 7,Mudon,Mudon,2019,1BR,14
+205,Wadi Al Safa 7,Mudon,Mudon,2019,2BR,77
+205,Wadi Al Safa 7,Mudon,Mudon,2019,3BR,490
+205,Wadi Al Safa 7,Mudon,Mudon,2019,4BR+,107
+205,Wadi Al Safa 7,Mudon,Mudon,2019,Studio,11
+205,Wadi Al Safa 7,Mudon,Mudon,2020,2BR,69
+205,Wadi Al Safa 7,Mudon,Mudon,2020,3BR,244
+205,Wadi Al Safa 7,Mudon,Mudon,2020,4BR+,43
+205,Wadi Al Safa 7,Mudon,Mudon,2021,1BR,104
+205,Wadi Al Safa 7,Mudon,Mudon,2021,2BR,203
+205,Wadi Al Safa 7,Mudon,Mudon,2021,3BR,306
+205,Wadi Al Safa 7,Mudon,Mudon,2021,4BR+,126
+205,Wadi Al Safa 7,Mudon,Mudon,2021,Studio,37
+205,Wadi Al Safa 7,Mudon,Mudon,2022,1BR,438
+205,Wadi Al Safa 7,Mudon,Mudon,2022,2BR,260
+205,Wadi Al Safa 7,Mudon,Mudon,2022,3BR,380
+205,Wadi Al Safa 7,Mudon,Mudon,2022,4BR+,145
+205,Wadi Al Safa 7,Mudon,Mudon,2022,Studio,92
+205,Wadi Al Safa 7,Mudon,Mudon,2023,1BR,29
+205,Wadi Al Safa 7,Mudon,Mudon,2023,2BR,14
+205,Wadi Al Safa 7,Mudon,Mudon,2023,3BR,28
+205,Wadi Al Safa 7,Mudon,Mudon,2023,4BR+,13
+205,Wadi Al Safa 7,Mudon,Mudon,2023,Studio,11
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2010,1BR,297
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2010,Studio,360
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2011,Studio,17
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2012,1BR,55
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2012,2BR,22
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2012,Studio,74
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2013,1BR,22
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2013,2BR,24
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2013,Non-residential,6
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2013,Studio,43
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2014,1BR,16
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2014,Studio,21
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2015,1BR,22
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2015,2BR,9
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2015,Studio,21
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2016,1BR,9
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2016,2BR,7
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2016,Studio,12
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2017,1BR,12
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2017,2BR,31
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2017,Studio,69
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2018,1BR,29
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2018,2BR,9
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2018,Studio,71
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2019,1BR,80
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2019,2BR,17
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2019,Studio,60
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2020,1BR,35
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2020,2BR,6
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2020,Studio,55
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2021,1BR,142
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2021,2BR,8
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2021,Studio,87
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2022,1BR,63
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2022,2BR,19
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2022,Studio,49
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2023,1BR,20
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2023,2BR,6
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,2023,Studio,15
+208,World Islands,,World Islands,2010,1BR,29
+208,World Islands,,World Islands,2017,Studio,25
+208,World Islands,,World Islands,2018,Studio,148
+208,World Islands,,World Islands,2019,Studio,166
+208,World Islands,,World Islands,2020,Studio,153
+208,World Islands,,World Islands,2021,Studio,38
+208,World Islands,,World Islands,2022,Studio,59
+209,Zaabeel First,,Zaabeel First,2018,1BR,12
+209,Zaabeel First,,Zaabeel First,2022,1BR,37
+209,Zaabeel First,,Zaabeel First,2022,2BR,99
+209,Zaabeel First,,Zaabeel First,2022,3BR,18
+209,Zaabeel First,,Zaabeel First,2023,1BR,32
+209,Zaabeel First,,Zaabeel First,2023,2BR,35
+209,Zaabeel First,,Zaabeel First,2023,3BR,5
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2015,1BR,98
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2015,2BR,122
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2015,3BR,78
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2016,1BR,52
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2016,2BR,39
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2016,3BR,29
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2017,1BR,184
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2017,2BR,362
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2017,3BR,110
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2018,1BR,80
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2018,2BR,100
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2018,3BR,72
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2019,1BR,76
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2019,2BR,121
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2019,3BR,129
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2020,1BR,38
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2020,2BR,63
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2020,3BR,29
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2021,1BR,55
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2021,2BR,102
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2021,3BR,73
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2021,4BR+,19
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2022,1BR,73
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2022,2BR,103
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2022,3BR,67
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2022,4BR+,6
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2023,1BR,19
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2023,2BR,24
+210,Zaabeel Second,Zabeel 2,Zabeel 2,2023,3BR,15

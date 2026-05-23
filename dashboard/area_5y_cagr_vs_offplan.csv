@@ -1,0 +1,38 @@
+area_id,area_name,display_name,area,lat,lon,pps_now,pps_ago,cagr_5y_pct,current_offplan_gap_pct,recent_txn_count
+174,Palm Jumeirah,Palm Jumeirah,Palm Jumeirah,25.12,55.14,31628.04,20001.88,9.60,55.05,2048
+148,Marsa Dubai,Dubai Marina,Dubai Marina,25.08,55.14,25030.22,16018.75,9.34,80.65,3904
+120,Business Bay,Business Bay,Business Bay,25.19,55.26,21149.50,15101.38,6.97,39.57,5776
+126,Hadaeq Sheikh Mohammed Bin Rashid,Mohammed Bin Rashid City,Mohammed Bin Rashid City,25.16,55.29,19407.98,14369.45,6.20,17.21,1893
+151,Mirdif,Mirdif,Mirdif,25.22,55.42,12534.40,9858.80,4.92,,194
+98,Al Wasl,Al Wasl (City Walk area),Al Wasl (City Walk area),25.20,55.26,23079.27,18412.26,4.62,27.22,1335
+49,Al Merkadh,Meydan,Meydan,25.16,55.31,19338.81,15873.68,4.03,25.44,3415
+118,Burj Khalifa,Downtown Dubai,Downtown Dubai,25.19,55.28,25933.58,21657.89,3.67,33.05,1884
+210,Zaabeel Second,Zabeel 2,Zabeel 2,25.23,55.29,22129.65,19374.08,2.70,-3.95,138
+138,Jumeirah First,Jumeirah 1,Jumeirah 1,25.22,55.26,26017.72,23046.75,2.45,16.73,204
+39,Al Khairan First,Dubai Creek Harbour,Dubai Creek Harbour,25.20,55.36,20294.71,18245.65,2.15,-1.91,2060
+203,Wadi Al Safa 5,Liwan,Liwan,25.11,55.37,8207.36,7774.97,1.09,18.53,440
+122,Dubai Investment Park First,Dubai Investment Park 1,Dubai Investment Park 1,24.99,55.17,7390.52,7207.07,0.50,72.21,37
+205,Wadi Al Safa 7,Mudon,Mudon,25.02,55.27,8665.21,8483.64,0.42,-12.10,132
+10,Al Barsha South Fourth,Arjan,Arjan,25.06,55.24,10483.64,10289.13,0.38,7.40,3800
+85,Al Thanyah Third,Barsha Heights (TECOM),Barsha Heights (TECOM),25.10,55.17,14308.73,14158.93,0.21,87.11,586
+201,Wadi Al Safa 3,Dubai Hills Estate,Dubai Hills Estate,25.12,55.26,8578.23,8517.31,0.14,76.51,120
+83,Al Thanyah Fifth,Jumeirah Lakes Towers,Jumeirah Lakes Towers,25.07,55.14,11047.10,11022.52,0.04,20.83,1436
+14,Al Barshaa South Third,Al Barsha South 3,Al Barsha South 3,25.06,55.24,11162.87,11418.45,-0.45,37.47,1278
+13,Al Barshaa South Second,Al Barsha South 2,Al Barsha South 2,25.07,55.23,11219.08,11895.01,-1.16,43.13,554
+161,Nad Al Shiba First,Nad Al Sheba 1,Nad Al Sheba 1,25.16,55.31,11613.27,12440.30,-1.37,,62
+9,Al Barsha South Fifth,Al Barsha South 5,Al Barsha South 5,25.05,55.19,11367.72,12414.51,-1.75,48.00,426
+100,Al Yelayiss 2,Town Square,Town Square,25.00,55.29,10236.72,11227.99,-1.83,6.33,616
+33,Al Hebiah Third,DAMAC Hills 2,DAMAC Hills 2,24.99,55.39,11873.62,13772.75,-2.92,21.61,753
+167,Nadd Hessa,Dubai Silicon Oasis,Dubai Silicon Oasis,25.12,55.39,7156.16,8557.75,-3.51,33.61,732
+144,Madinat Al Mataar,Dubai South,Dubai South,24.91,55.16,7386.61,9011.91,-3.90,-0.13,296
+133,Jabal Ali First,Discovery Gardens & The Gardens,Discovery Gardens & The Gardens,25.05,55.13,10635.43,13641.89,-4.86,40.97,1297
+149,Me'Aisem First,Dubai Production City (IMPZ),Dubai Production City (IMPZ),25.03,55.19,8030.50,10332.48,-4.92,51.42,448
+35,Al Jadaf,Al Jaddaf,Al Jaddaf,25.21,55.32,12469.45,16162.04,-5.06,15.91,484
+20,Al Goze Fourth,Al Quoz 4,Al Quoz 4,25.15,55.25,6231.24,8179.69,-5.30,,37
+95,Al Warsan First,International City,International City,25.17,55.42,5400.25,7095.37,-5.31,,1097
+28,Al Hebiah Fifth,DAMAC Hills 2 (Akoya),DAMAC Hills 2 (Akoya),24.99,55.37,6837.50,9164.58,-5.69,-8.84,188
+29,Al Hebiah First,Arabian Ranches III,Arabian Ranches III,24.98,55.26,7020.32,9922.51,-6.69,,203
+200,Wadi Al Safa 2,Dubailand,Dubailand,25.06,55.25,4854.79,7356.10,-7.98,,118
+30,Al Hebiah Fourth,DAMAC Hills,DAMAC Hills,25.03,55.26,6620.75,10356.16,-8.56,50.01,572
+207,Warsan Fourth,Al Warsan 4,Al Warsan 4,25.13,55.41,5174.25,8809.53,-10.10,,105
+84,Al Thanyah First,Emirates Hills,Emirates Hills,25.06,55.16,8533.06,18125.88,-13.99,,112

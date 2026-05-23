@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — never commit raw or large analytical files
+data/raw/
+data/interim/
+data/processed/
+*.db
+*.sqlite
+*.sqlite3
+
+# Tableau autosave / temp
+*.twbr
+*.tdsx.bak
+
+# Secrets / env
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

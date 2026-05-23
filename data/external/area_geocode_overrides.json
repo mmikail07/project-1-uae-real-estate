@@ -1,0 +1,16 @@
+{
+  "_doc": {
+    "description": "Manual lat/lon overrides for DLD areas where Nominatim returns no match. Typically post-2021 off-plan communities not yet on OpenStreetMap.",
+    "policy": "Coordinates are approximate (~community centroid). Accuracy ~1-2 km, sufficient for area-level dashboard pins. `source: 'manual_approximate'` lets dashboards filter if needed.",
+    "format": "Key = DLD canonical area_name (must match areas.area_name exactly). Value = {lat, lon, source}."
+  },
+
+  "Al Hebiah First": {
+    "lat": 24.9800, "lon": 55.2600, "source": "manual_approximate",
+    "note": "Arabian Ranches III (Emaar, 2021+). South of Sheikh Mohammed Bin Zayed Road, between Mudon and Arabian Ranches 2."
+  },
+  "Al Hebiah Sixth": {
+    "lat": 25.0000, "lon": 55.2400, "source": "manual_approximate",
+    "note": "DAMAC Lagoons (DAMAC, 2021+). Adjacent to DAMAC Hills, south of Hessa Street."
+  }
+}
