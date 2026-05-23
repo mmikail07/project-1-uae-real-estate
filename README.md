@@ -3,7 +3,7 @@
 > Surfacing non-obvious findings about the Dubai property market that analysts at Property Finder, Bayut, or a real estate consultancy would find actionable.
 
 **Live dashboard:** [Tableau Public — UAE Real Estate Market Intelligence](https://public.tableau.com/app/profile/mohammad.mikail/viz/workbook_17794578815150/Dashboard)
-**Author:** Mohammad Mikail · [LinkedIn]() · [Medium writeup]()
+**Author:** Mohammad Mikail · [LinkedIn]() · [Medium writeup](https://medium.com/@mm0703/what-1-million-dubai-property-records-told-me-about-off-plan-pricing-a1e00ad6f72b)
 
 ![Dashboard overview](dashboard/screenshots/dashboard_overview.png)
 
