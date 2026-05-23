@@ -3,7 +3,6 @@
 > Surfacing non-obvious findings about the Dubai property market that analysts at Property Finder, Bayut, or a real estate consultancy would find actionable.
 
 **Live dashboard:** [Tableau Public — UAE Real Estate Market Intelligence](https://public.tableau.com/app/profile/mohammad.mikail/viz/workbook_17794578815150/Dashboard)
-**Loom walkthrough (90 sec):** _coming in Week 4_
 **Author:** Mohammad Mikail · [LinkedIn]() · [Medium writeup]()
 
 ![Dashboard overview](dashboard/screenshots/dashboard_overview.png)
@@ -29,8 +28,6 @@ End-to-end analytics pipeline on **1,037,522 Dubai Land Department property tran
 │ yfinance (oil)       │───────────────┘
 └──────────────────────┘
 ```
-
-Diagram: [docs/architecture.png](docs/architecture.png) _(generated Week 4)_
 
 ## Data sources
 
@@ -97,11 +94,29 @@ End-to-end run on a 500k-row dataset: ~5 min cold, ~30 sec with cached geocoding
 
 Three findings featured on the dashboard (see [notebooks/04_analysis.ipynb](notebooks/04_analysis.ipynb) for the polished analytical narrative):
 
-1. **Business Bay off-plan inversion** — Off-plan units trade at a +30–60% **premium** over ready inventory in Business Bay, defying the conventional off-plan-trades-at-discount logic that holds in most real estate markets. Hypothesis: new launches concentrate in premium Burj-area positions while ready stock includes older mid-tier supply, inverting the per-tower comparison. *Implication for an analyst memo: flag off-plan pricing in Business Bay as a launch-positioning artifact, not a fundamentals signal.*
+### 1. Business Bay off-plan inversion
 
-2. **Marina YoY tracks published Dubai market history** — Dubai Marina median price/sqft year-over-year change matches the cycle every published Dubai market report cites: **+42% (2009 post-GFC recovery), +17% (2014 pre-mortgage-cap peak), −20% (2020 COVID), +1.4% (2022 plateau)**. *Implication: this is the data-credibility win — the loader and IQR cleaning faithfully reproduce a market history that any UAE analyst can sanity-check from memory.*
+Off-plan units trade at a +30–60% **premium** over ready inventory in Business Bay, defying the conventional off-plan-trades-at-discount logic that holds in most real estate markets. Hypothesis: new launches concentrate in premium Burj-area positions while ready stock includes older mid-tier supply, inverting the per-tower comparison.
 
-3. **Meydan supply concentration drives absorption risk** — Meydan saw **19 new projects launched in 2021 and 18 in 2022** (per first-transaction-year proxy) — the most concentrated supply pipeline in Dubai in recent memory. Combined with Meydan's modest +4% 5-year price CAGR, the pattern suggests supply growth is outpacing price acceleration. *Implication: an absorption-risk angle for a buyer-side memo; over-supply pressure may dampen 2024–25 returns.*
+*Implication for an analyst memo: flag off-plan pricing in Business Bay as a launch-positioning artifact, not a fundamentals signal.*
+
+![Business Bay off-plan vs ready median price/sqft, 2010–2022](dashboard/screenshots/finding_1_business_bay.png)
+
+### 2. Marina YoY tracks published Dubai market history
+
+Dubai Marina median price/sqft year-over-year change matches the cycle every published Dubai market report cites: **+42% (2009 post-GFC recovery), +17% (2014 pre-mortgage-cap peak), −20% (2020 COVID), +1.4% (2022 plateau)**.
+
+*Implication: this is the data-credibility win — the loader and IQR cleaning faithfully reproduce a market history that any UAE analyst can sanity-check from memory.*
+
+![Dubai Marina median price/sqft 2008–2023 with macro events annotated](dashboard/screenshots/finding_2_marina_history.png)
+
+### 3. Meydan supply concentration drives absorption risk
+
+Meydan saw **19 new projects launched in 2021 and 18 in 2022** (per first-transaction-year proxy) — the most concentrated supply pipeline in Dubai in recent memory. Combined with Meydan's modest +4% 5-year price CAGR, the pattern suggests supply growth is outpacing price acceleration.
+
+*Implication: an absorption-risk angle for a buyer-side memo; over-supply pressure may dampen 2024–25 returns.*
+
+![Top 8 Dubai areas by new project launches 2015–2022, Meydan highlighted](dashboard/screenshots/finding_3_meydan_supply.png)
 
 A fourth candidate — off-plan share as a market-sentiment gauge — sits in the underlying data and will run as a LinkedIn post in Week 4.
 
@@ -110,13 +125,13 @@ A fourth candidate — off-plan share as a market-sentiment gauge — sits in th
 See `docs/data_dictionary.md` for every column. Quick reference:
 
 ```
-data/        raw → interim → processed (all gitignored)
+data/        raw → interim → processed (all gitignored); external/ holds the curated name/geocode JSONs
 notebooks/   01_acquisition → 02_cleaning → 03_enrichment → 04_analysis
-src/         config, db, load_dld, scrape_dld, enrich, macro, analysis
-sql/         schema, derived_views, analysis_queries
-dashboard/   tableau_extract.csv + workbook.twbx + screenshots
-docs/        architecture diagram, data dictionary, Medium draft
-reports/     internal findings log
+src/         config, db, load_dld, scrape_dld, enrich, macro, export_tableau
+sql/         schema.sql, derived_views.sql
+dashboard/   5 Tableau-input CSVs + workbook.twbx + screenshots (3 dashboard + 3 finding charts)
+docs/        data dictionary, Medium article draft (added in Week 4)
+scripts/     one-off maintenance helpers (e.g. notebook output sanitization)
 ```
 
 ## Design decisions worth defending
